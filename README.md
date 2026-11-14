@@ -2,7 +2,7 @@
 
 Hi! I'm Anna and I love making cocktails, and you love drinking them.
 
-Come over to my home bar for a cocktail evening.
+Come over to my home bar for a cocktail night.
 
 This repo shows what I can make at home right now:
 
