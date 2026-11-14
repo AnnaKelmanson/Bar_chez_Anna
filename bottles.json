@@ -1,0 +1,422 @@
+{
+  "bottles": [
+    {
+      "type": "Gin",
+      "brand": "Bombay Sapphire",
+      "purchase_url": "https://www.aligro.ch/produits/14651-BOT/bombay-sapphire-london-dry-gin-40-vol",
+      "at_home": true
+    },
+    {
+      "type": "Scotch",
+      "brand": "Ballantine's",
+      "purchase_url": "https://www.aligro.ch/produits/115011-BOT/finest-blended-scotch-whisky-40-vol-ballantine-s",
+      "at_home": true
+    },
+    {
+      "type": "Canadian whisky",
+      "brand": "Canadian Club",
+      "purchase_url": "https://www.aligro.ch/produits/115501-BOT/canadian-club-blended-whisky-40-vol",
+      "at_home": true
+    },
+    {
+      "type": "Spiced rum",
+      "brand": "Bacardi",
+      "purchase_url": "https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol",
+      "at_home": false
+    },
+    {
+      "type": "Black rum",
+      "brand": "Bacardi",
+      "purchase_url": "https://www.aligro.ch/produits/1843-BOT/bacardi-carta-negra-37-5-vol",
+      "at_home": false
+    },
+    {
+      "type": "White rum",
+      "brand": "Bacardi Carta Blanca",
+      "purchase_url": "https://www.aligro.ch/produits/113012-BOT/bacardi-carta-blanca-37-5-vol",
+      "at_home": false
+    },
+    {
+      "type": "Campari",
+      "brand": "Campari",
+      "purchase_url": "https://www.drinks.ch/de/campari-bitter-70cl.html",
+      "at_home": true
+    },
+    {
+      "type": "Passoa",
+      "brand": "Passoa",
+      "purchase_url": "https://www.aligro.ch/produits/116335-BOT/liqueur-passoa-passion-fruit-17-vol",
+      "at_home": true
+    },
+    {
+      "type": "Tanqueray grapefruit",
+      "brand": "Tanqueray Aperitivo Pink Grapefruit",
+      "purchase_url": "https://www.drinks.ch/de/tanqueray-aperitivo-pink-grapefruit-70cl.html",
+      "at_home": true
+    },
+    {
+      "type": "Averna",
+      "brand": "Averna",
+      "purchase_url": "https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol",
+      "at_home": false
+    },
+    {
+      "type": "Fernet",
+      "brand": "Fernet-Branca",
+      "purchase_url": "https://www.aligro.ch/produits/108728-BOT/fernet-branca-liquore-amaro-39-vol",
+      "at_home": false
+    },
+    {
+      "type": "Yellow Chartreuse",
+      "brand": "yellow Chartreuse",
+      "purchase_url": "https://www.lacavedespoetes.ch/shop/chartreuse-jaune-43-70cl-6790#attribute_values=1",
+      "at_home": false
+    },
+    {
+      "type": "Green Chartreuse",
+      "brand": "green Chartreuse",
+      "purchase_url": "https://www.lacavedespoetes.ch/shop/chartreuse-verte-55-70cl-6795#attribute_values=1",
+      "at_home": false
+    },
+    {
+      "type": "Roots Mastiha",
+      "brand": "Roots Mastiha",
+      "purchase_url": "https://www.greekgourmet.ch/de/produkte/ouzo-co/mastiha/roots-mastiha-28-70cl/?attribute_pa_haltbarkeit=31-12-2099",
+      "at_home": true
+    },
+    {
+      "type": "Gozenchu Yuzu",
+      "brand": "Gozenshu Yuzushu",
+      "purchase_url": "https://www.sakeshop.it/prodotto/gozenshu-yuzushu/",
+      "at_home": false
+    },
+    {
+      "type": "9 di Dante Inferno",
+      "brand": "9 di Dante Inferno",
+      "purchase_url": "https://www.lacavedespoetes.ch/shop/9didante-inferno-vermouth-rouge-17-5-75cl-6303",
+      "at_home": false
+    },
+    {
+      "type": "9 di Dante Paradiso",
+      "brand": "9 di Dante Paradiso",
+      "purchase_url": "https://www.lacavedespoetes.ch/shop/9didante-vermouth-rose-paradiso-18-75cl-6302",
+      "at_home": true
+    },
+    {
+      "type": "Martini Bianco",
+      "brand": "Martini Bianco",
+      "purchase_url": "https://www.aligro.ch/produits/66858-BOT/martini-bianco-15-vol",
+      "at_home": true
+    },
+    {
+      "type": "Mezcal",
+      "brand": "Del Maguey Vida",
+      "purchase_url": "https://www.drinks.ch/de/del-maguey-vida-mezcal-70cl.html",
+      "at_home": false
+    },
+    {
+      "type": "Aperol",
+      "brand": "Aperol",
+      "purchase_url": "https://www.aligro.ch/produits/26250-BOT/aperol-bitter-11-vol",
+      "at_home": true
+    },
+    {
+      "type": "Italicus",
+      "brand": "Italicus",
+      "purchase_url": "https://www.aligro.ch/produits/450214-BOT/italicus-rosolio-di-bergamotto-20-vol",
+      "at_home": true
+    },
+    {
+      "type": "Vodka",
+      "brand": "Absolut",
+      "purchase_url": "https://www.aligro.ch/produits/114043-BOT/vodka-absolut-40-vol",
+      "at_home": false
+    },
+    {
+      "type": "Cointreau",
+      "brand": "Cointreau",
+      "purchase_url": "https://www.aligro.ch/produits/116222-BOT/liqueur-cointreau-40-vol",
+      "at_home": true
+    },
+    {
+      "type": "Absinthe",
+      "brand": "Absinthe Fée verte 54%",
+      "purchase_url": "https://www.lacavedespoetes.ch/shop/absinthe-fee-verte-54-50cl-6315",
+      "at_home": false
+    },
+    {
+      "type": "Prosecco",
+      "brand": "Corte delle Calli Extra Dry Treviso DOC",
+      "purchase_url": "https://www.aligro.ch/produits/451412-Z06/prosecco-extra-dry-treviso-doc-corte-delle-calli",
+      "at_home": false
+    },
+    {
+      "type": "Advocaat",
+      "brand": "Bols",
+      "purchase_url": "https://www.drinks.ch/de/bols-advocaat-eierlikor-70cl.html",
+      "at_home": false
+    },
+    {
+      "type": "Amaretto",
+      "brand": "Lazzaroni Autentico",
+      "purchase_url": "https://www.aligro.ch/produits/61984-BOT/amaretto-autentico-lazzaroni-24-70-cl",
+      "at_home": false
+    },
+    {
+      "type": "Aquavit",
+      "brand": "Linie Aquavit",
+      "purchase_url": "https://www.drinks.ch/de/linie-aquavit-70cl.html",
+      "at_home": false
+    },
+    {
+      "type": "Fireball",
+      "brand": "Fireball Cinnamon & Whisky",
+      "purchase_url": "https://www.aligro.ch/produits/82140-BOT/liqueur-fireball-cinnamon-whisky-33-vol",
+      "at_home": true
+    },
+    {
+      "type": "Lillet Rose",
+      "brand": "Lillet Rosé",
+      "purchase_url": "https://www.drinks.ch/de/lillet-rose-aperitif-75cl.html",
+      "at_home": false
+    }
+  ],
+  "syrups": [
+    {
+      "type": "Black tea syrup",
+      "brand": "Monin Concentré Thé Citron",
+      "purchase_url": "https://www.aligro.ch/produits/82357-BOT/concentre-de-the-de-citron-monin",
+      "at_home": true
+    },
+    {
+      "type": "Raspberry syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/28254-BOT/sirop-de-framboise-monin",
+      "at_home": true
+    },
+    {
+      "type": "Cane sugar syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/28286-BOT/sirop-sucre-de-canne-monin",
+      "at_home": false
+    },
+    {
+      "type": "Tangerine syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/28265-BOT/sirop-mandarine-monin",
+      "at_home": true
+    },
+    {
+      "type": "Elderflower syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/39722-BOT/sirop-de-fleur-de-sureau-monin",
+      "at_home": false
+    },
+    {
+      "type": "Bergamot syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/456288-BOT/sirop-bergamote-monin-70-cl",
+      "at_home": false
+    },
+    {
+      "type": "Vanilla syrup",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/28287-BOT/sirop-de-vanille-monin",
+      "at_home": false
+    },
+    {
+      "type": "Grapefruit syrup",
+      "brand": "Monin Pamplemousse Rose",
+      "purchase_url": "https://www.aligro.ch/produits/51946-BOT/sirop-de-pamplemousse-rose-monin",
+      "at_home": false
+    }
+  ],
+  "always_available": [
+    {
+      "type": "Lemon juice",
+      "brand": "Pulco Citron",
+      "purchase_url": "https://www.aligro.ch/produits/123908-BOT/pulco-citron",
+      "at_home": true
+    },
+    {
+      "type": "Lime juice",
+      "brand": "Pulco Citron Vert",
+      "purchase_url": "https://www.aligro.ch/produits/56941-BOT/pulco-citron-vert",
+      "at_home": false
+    },
+    {
+      "type": "Orange juice",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Grapefruit juice",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Egg white",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Aromatic bitters",
+      "brand": "Angostura Aromatic Bitters",
+      "purchase_url": "https://www.galaxus.ch/en/s7/product/angostura-aromatic-bitter-1-x-20-cl-aperitifs-6209059",
+      "at_home": true
+    },
+    {
+      "type": "Orange bitters",
+      "brand": "Angostura Orange Bitters",
+      "purchase_url": "https://www.galaxus.ch/en/s7/product/angostura-orange-bitters-1-x-10-cl-aperitifs-3826620",
+      "at_home": true
+    },
+    {
+      "type": "Soda water",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Tonic water",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Ice",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Salt",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Black tea",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Green tea",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Frozen raspberries",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Fresh pomegranate",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Cranberry juice",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Honey",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Cardamom bitters",
+      "brand": "Fee Brothers",
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Green chilli",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Apple",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Mint",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Lime",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Basil",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Ginger beer",
+      "brand": "Fever-Tree",
+      "purchase_url": "https://www.aligro.ch/produits/78187-Z24/ginger-beer-fever-tree",
+      "at_home": false
+    },
+    {
+      "type": "Tobacco bitters",
+      "brand": "Fee Brothers",
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Cranberry bitters",
+      "brand": "Fee Brothers",
+      "purchase_url": null,
+      "at_home": true
+    },
+    {
+      "type": "Apple juice",
+      "brand": "Ramseier",
+      "purchase_url": "https://www.aligro.ch/produits/45224-Z06/jus-de-pomme-naturel-premium-ramseier",
+      "at_home": false
+    },
+    {
+      "type": "Strawberry puree",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/54930-BOT/puree-de-fraise-monin",
+      "at_home": false
+    },
+    {
+      "type": "Passion fruit puree",
+      "brand": "Monin",
+      "purchase_url": "https://www.aligro.ch/produits/54927-BOT/puree-de-fruits-de-la-passion-le-fruit-de-monin",
+      "at_home": false
+    },
+    {
+      "type": "Tabasco",
+      "brand": "Tabasco Original (McIlhenny)",
+      "purchase_url": "https://www.aligro.ch/produits/151356-ZFL/tabasco-original-mc-ilhenny",
+      "at_home": false
+    },
+    {
+      "type": "Sugar",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": true
+    }
+  ]
+}

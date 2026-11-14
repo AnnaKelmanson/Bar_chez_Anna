@@ -1,0 +1,237 @@
+{
+  "Negroni": {
+    "ingredients": [
+      ["gin", 30, "ml"],
+      ["Campari", 30, "ml"],
+      ["9 di Dante Inferno", 30, "ml"]
+    ],
+    "garnish": "Orange peel."
+  },
+
+  "London Mule": {
+    "ingredients": [
+      ["gin", 50, "ml"],
+      ["lime juice", 15, "ml"],
+      ["ginger beer", null, "by eye"]
+    ],
+    "garnish": "Lime wedge."
+  },
+
+  "My Whiskey Sour": {
+    "ingredients": [
+      ["Canadian whisky", 30, "ml"],
+      ["scotch", 10, "ml"],
+      ["Averna", 10, "ml"],
+      ["black tea syrup", 15, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["egg white", 1, "egg"]
+    ]
+  },
+
+  "Garibaldi": {
+    "ingredients": [
+      ["9 di Dante Inferno", 40, "ml"],
+      ["Roots Mastiha", 10, "ml"],
+      ["grapefruit juice", 40, "ml"],
+      ["black tea", 20, "ml"]
+    ],
+    "source": "https://www.9didante.com/en/dantes-garibaldi-recipe"
+  },
+
+  "Paradiso Tonic": {
+    "ingredients": [
+      ["9 di Dante Paradiso", 50, "ml"],
+      ["tonic water", 100, "ml"]
+    ],
+    "garnish": "Orange peel."
+  },
+
+  "Raspberry-Grapefruit Gin Sour": {
+    "ingredients": [
+      ["gin", 35, "ml"],
+      ["Tanqueray grapefruit", 25, "ml"],
+      ["raspberry syrup", 15, "ml"],
+      ["frozen raspberries", null, "by eye"],
+      ["egg white", 1, "egg"],
+      ["lemon juice", 15, "ml"]
+    ]
+  },
+
+  "Industrial Sour": {
+    "ingredients": [
+      ["Fernet", null, "by eye"],
+      ["green Chartreuse", null, "by eye"],
+      ["Canadian whisky", null, "by eye"],
+      ["lemon juice", 15, "ml"],
+      ["cane sugar syrup", 15, "ml"],
+      ["egg white", 1, "egg"]
+    ]
+  },
+
+  "Famous and Naked": {
+    "ingredients": [
+      ["mezcal", 30, "ml"],
+      ["yellow Chartreuse", 30, "ml"],
+      ["Aperol", 30, "ml"],
+      ["lime juice", 30, "ml"]
+    ]
+  },
+
+  "Porn Star Martini": {
+    "ingredients": [
+      ["vodka", 50, "ml"],
+      ["Passoa", 15, "ml"],
+      ["passion fruit puree", 15, "ml"],
+      ["lime juice", 10, "ml"],
+      ["vanilla syrup", 10, "ml"],
+      ["prosecco", 50, "ml"]
+    ],
+    "garnish": "Half a passion fruit."
+  },
+
+  "White Russian": {
+    "ingredients": [
+      ["vodka", 50, "ml"],
+      ["coffee liqueur", 20, "ml"],
+      ["cream", 30, "ml"]
+    ]
+  },
+
+  "Pomegranate Lillet Rose Rum": {
+    "ingredients": [
+      ["fresh pomegranate", null, "by eye"],
+      ["Lillet Rose", 30, "ml"],
+      ["spiced rum", 30, "ml"],
+      ["soda water", null, "by eye"]
+    ]
+  },
+
+  "Yuzu Spritz": {
+    "ingredients": [
+      ["Gozenchu Yuzu", 60, "ml"],
+      ["prosecco", 90, "ml"],
+      ["soda water", null, "by eye"]
+    ]
+  },
+
+  "Cranberry Fireball Sour": {
+    "ingredients": [
+      ["cranberry juice", null, "ml"],
+      ["honey", null, "g"],
+      ["Fireball", null, "ml"],
+      ["egg white", 1, "egg"],
+      ["cardamom bitters", null, "dash"]
+    ],
+    "garnish": "Rosemary sprig."
+  },
+
+  "Grapefruit Green Tea Sour": {
+    "ingredients": [
+      ["green Chartreuse", 40, "ml"],
+      ["green tea", null, "by eye"],
+      ["lemon juice", 20, "ml"],
+      ["grapefruit syrup", 20, "ml"],
+      ["egg white", 40, "ml"],
+      ["cardamom bitters", 2, "dash"]
+    ],
+    "garnish": "Dried grapefruit, optional."
+  },
+
+  "Green Chilli Tini": {
+    "ingredients": [
+      ["gin", 2, "portion"],
+      ["green chilli", null, "by eye"],
+      ["apple", null, "by eye"],
+      ["mint", null, "by eye"],
+      ["lemon juice", null, "by eye"]
+    ],
+    "source": "Bekitzer, 2021, recalled from memory."
+  },
+
+  "Bergamot Basil Spiced Rum": {
+    "ingredients": [
+      ["bergamot syrup", 20, "ml"],
+      ["spiced rum", 50, "ml"],
+      ["lime", null, "by eye"],
+      ["basil", null, "by eye"]
+    ],
+    "variations": {
+      "With soda": {
+        "additional_ingredients": [
+          ["soda water", null, "by eye"]
+        ]
+      },
+      "Sour": {
+        "additional_ingredients": [
+          ["egg white", 1, "egg"]
+        ]
+      }
+    }
+  },
+
+  "Lemon Pie": {
+    "ingredients": [
+      ["Advocaat", 70, "ml"],
+      ["lemon juice", 20, "ml"],
+      ["cane sugar syrup", 10, "ml"],
+      ["vanilla syrup", 10, "ml"]
+    ],
+    "source": "https://www.diffordsguide.com/cocktails/recipe/17398/lemon-pie"
+  },
+
+  "Tarantino, rum variation": {
+    "ingredients": [
+      ["spiced rum", 45, "ml"],
+      ["passion fruit puree", 30, "ml"],
+      ["Passoa", 15, "ml"],
+      ["tonic water", 30, "ml"],
+      ["Tabasco", 1, "drop"]
+    ]
+  },
+
+  "Hugo": {
+    "ingredients": [
+      ["elderflower syrup", 20, "ml"],
+      ["prosecco", 120, "ml"],
+      ["soda water", 50, "ml"],
+      ["mint", 8, "leaf"],
+      ["lime", 2, "wedge"]
+    ],
+    "garnish": "Lime wedge; edible flower if wanted.",
+    "source": "https://monin.fr/products/hugo-spritz"
+  },
+
+  "La Belle Époque": {
+    "ingredients": [
+      ["vodka", null, "ml"],
+      ["elderflower syrup", null, "ml"],
+      ["strawberry puree", null, "ml"],
+      ["passion fruit puree", null, "ml"],
+      ["apple juice", null, "ml"],
+      ["cranberry juice", null, "ml"],
+      ["sugar", null, "g"]
+    ],
+    "source": "https://www.lausanne-cocktail-club.ch/_files/ugd/552e3a_d188be1d87cc4733b69c7c8e7d8aa548.pdf"
+  },
+
+  "Glow On": {
+    "ingredients": [
+      ["scotch", null, "ml"],
+      ["aquavit", null, "ml"],
+      ["cedar (form to confirm)", null, "unspecified"],
+      ["cumaru (form to confirm)", null, "unspecified"],
+      ["balsam fir (form to confirm)", null, "unspecified"]
+    ],
+    "source": "Bar Numéro, Montreal, menu photo."
+  },
+
+  "Amaretto Sour": {
+    "ingredients": [
+      ["amaretto", 45, "ml"],
+      ["Canadian whisky", 20, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["egg white", 15, "ml"],
+      ["aromatic bitters", 3, "ml"]
+    ]
+  }
+}
