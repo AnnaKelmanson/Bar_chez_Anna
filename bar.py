@@ -70,9 +70,11 @@ def markdown_table(headers, rows):
 
 def wishlist_items(inventory, extras):
     bottle_urls = {item.get("purchase_url") for item in inventory["bottles"] if item.get("purchase_url")}
+    bottle_names = {name.casefold() for item in inventory["bottles"] for name in (item["type"], item_label(item))}
     items = [{"name": item_label(item), "url": item.get("purchase_url")}
              for item in inventory["bottles"] if item["at_home"] is False]
-    items += [gift for gift in extras if gift.get("url") not in bottle_urls]
+    items += [gift for gift in extras
+              if gift.get("url") not in bottle_urls and (gift.get("name") or "").casefold() not in bottle_names]
     return items
 
 

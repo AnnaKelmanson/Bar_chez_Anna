@@ -65,9 +65,9 @@ If you like what I do, you can contribute by buying something from the wishlist.
 | [Aquavit (Linie Aquavit)](https://www.drinks.ch/de/linie-aquavit-70cl.html) |
 | [Lillet Rose (Lillet Rosé)](https://www.drinks.ch/de/lillet-rose-aperitif-75cl.html) |
 | [Coffee liqueur (Kahlúa)](https://www.drinks.ch/de/kahlua-70cl.html) |
-| Coffee liqueur |
 | [Coupe glasses, set of 4](https://www.amazon.de/-/en/gp/product/B099FJH5JY) |
 | [Aperol glasses](https://www.amazon.de/-/en/dp/B0BMVNRYJP) |
 | [Riedel Nick and Nora glasses](https://www.amazon.de/-/en/gp/product/B07PPHJ6XG) |
+| [Rekix lemon squeezer](https://www.amazon.de/-/en/dp/B0CFXB35C3) |
 
 Refresh with `python3 bar.py readme`.
