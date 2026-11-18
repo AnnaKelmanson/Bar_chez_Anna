@@ -38,6 +38,11 @@ def availability(recipe, available):
     return sorted(set(missing)), unresolved
 
 
+def iba_missing(recipe, available, aliases):
+    return [ingredient for ingredient, _, _ in recipe["ingredients"]
+            if not any(name.casefold() in available for name in [ingredient, *aliases.get(ingredient, [])])]
+
+
 def item_label(item):
     return item["type"] + (f" ({item['brand']})" if item["brand"] else "")
 
@@ -171,6 +176,7 @@ def main():
     shopping = commands.add_parser("shopping", help="Что докупить для коктейля")
     shopping.add_argument("names", nargs="+")
     commands.add_parser("readme", help="Перезаписать README.md из текущих запасов и рецептов")
+    commands.add_parser("iba", help="Какую IBA-классику можно сделать из того, что дома")
     recipe = commands.add_parser("recipe", help="Show one recipe")
     recipe.add_argument("name")
     plan = commands.add_parser("plan", help='Total quantities, e.g. "Cocktail name=4"')
@@ -204,6 +210,18 @@ def main():
         return
     if args.command == "readme":
         print(write_readme(recipes, inventory), end="")
+        return
+    if args.command == "iba":
+        aliases = read("iba_aliases.json")
+        groups = {"Можно сделать": [], "Не хватает одного": [], "Не хватает двух и больше": []}
+        for name, recipe in read("iba_recipes.json").items():
+            missing = iba_missing(recipe, available, aliases)
+            group = list(groups)[min(len(missing), 2)]
+            groups[group].append(name + (": " + ", ".join(missing) if missing else ""))
+        for title, entries in groups.items():
+            print(f"{title} ({len(entries)}):")
+            for entry in entries:
+                print("  " + entry)
         return
     if args.command == "shopping":
         choices = dict(options(recipes))
