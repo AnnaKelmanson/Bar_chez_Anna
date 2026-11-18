@@ -58,6 +58,7 @@ If you like what I do, you can contribute by buying something from the wishlist.
 | [Averna (Averna)](https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol) | ★★★ |
 | [Coupe glasses, set of 4](https://www.amazon.de/-/en/gp/product/B099FJH5JY) | ★★★ |
 | [Aperol glasses](https://www.amazon.de/-/en/dp/B0BMVNRYJP) | ★★★ |
+| [Luxardo maraschino cherries, 400 g](https://shop.bn-service.ch/cocktail-kirschen-luxardo-maraschino-78346n2) | ★★★ |
 | [Spiced rum (Bacardi)](https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol) | ★★ |
 | [Advocaat (Bols)](https://www.drinks.ch/de/bols-advocaat-eierlikor-70cl.html) | ★★ |
 | [Aquavit (Linie Aquavit)](https://www.drinks.ch/de/linie-aquavit-70cl.html) | ★★ |

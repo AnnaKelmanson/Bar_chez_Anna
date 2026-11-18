@@ -25,7 +25,8 @@
       ["black tea syrup", 15, "ml"],
       ["lemon juice", 15, "ml"],
       ["egg white", 1, "egg"]
-    ]
+    ],
+    "garnish": "Luxardo maraschino cherry."
   },
 
   "Garibaldi": {
