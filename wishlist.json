@@ -1,10 +1,5 @@
 [
   {
-    "name": "Spiced rum (Bacardi)",
-    "url": "https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol",
-    "stars": 3
-  },
-  {
     "name": "Averna (Averna)",
     "url": "https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol",
     "stars": 3
@@ -45,13 +40,8 @@
     "stars": 3
   },
   {
-    "name": "Black rum (Bacardi)",
-    "url": "https://www.aligro.ch/produits/1843-BOT/bacardi-carta-negra-37-5-vol",
-    "stars": 2
-  },
-  {
-    "name": "White rum (Bacardi Carta Blanca)",
-    "url": "https://www.aligro.ch/produits/113012-BOT/bacardi-carta-blanca-37-5-vol",
+    "name": "Spiced rum (Bacardi)",
+    "url": "https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol",
     "stars": 2
   },
   {
@@ -78,6 +68,16 @@
     "name": "Coffee liqueur (Kahlúa)",
     "url": "https://www.drinks.ch/de/kahlua-70cl.html",
     "stars": 2
+  },
+  {
+    "name": "Black rum (Bacardi)",
+    "url": "https://www.aligro.ch/produits/1843-BOT/bacardi-carta-negra-37-5-vol",
+    "stars": 1
+  },
+  {
+    "name": "White rum (Bacardi Carta Blanca)",
+    "url": "https://www.aligro.ch/produits/113012-BOT/bacardi-carta-blanca-37-5-vol",
+    "stars": 1
   },
   {
     "name": "Vodka (Absolut)",
