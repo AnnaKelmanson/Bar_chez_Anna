@@ -169,14 +169,14 @@ def main():
     parser = argparse.ArgumentParser(description="Your home bar recipes and party quantities")
     commands = parser.add_subparsers(dest="command", required=True)
     commands.add_parser("menu", help="List cocktails and any missing ingredients")
-    stock = commands.add_parser("stock", help="Посмотреть или изменить запасы")
+    stock = commands.add_parser("stock", help="Show or change your stock")
     stock.add_argument("action", choices=("list", "add", "remove"), nargs="?", default="list")
     stock.add_argument("items", nargs="*")
     stock.add_argument("--category", choices=("bottles", "syrups", "always_available"), default="bottles")
-    shopping = commands.add_parser("shopping", help="Что докупить для коктейля")
+    shopping = commands.add_parser("shopping", help="What to buy for a cocktail")
     shopping.add_argument("names", nargs="+")
-    commands.add_parser("readme", help="Перезаписать README.md из текущих запасов и рецептов")
-    commands.add_parser("iba", help="Какую IBA-классику можно сделать из того, что дома")
+    commands.add_parser("readme", help="Rewrite README.md from current stock and recipes")
+    commands.add_parser("iba", help="Which IBA classics you can make with what is at home")
     recipe = commands.add_parser("recipe", help="Show one recipe")
     recipe.add_argument("name")
     plan = commands.add_parser("plan", help='Total quantities, e.g. "Cocktail name=4"')
@@ -188,7 +188,7 @@ def main():
     if args.command == "stock":
         if args.action != "list":
             if not args.items or any(not item.strip() for item in args.items):
-                parser.error("Укажи ингредиенты в кавычках.")
+                parser.error("Give ingredient names in quotes.")
             for item in args.items:
                 item = item.strip()
                 for category in ("bottles", "syrups", "always_available"):
@@ -199,13 +199,13 @@ def main():
                         {"type": item, "brand": None, "purchase_url": None, "at_home": True})
             (ROOT / "bottles.json").write_text(
                 json.dumps(inventory, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            print("Запасы обновлены.")
+            print("Stock updated.")
             write_readme(recipes, inventory)
-        for category, title in (("bottles", "Алкоголь дома"), ("syrups", "Сиропы дома"),
-                                ("always_available", "Считаем всегда доступным")):
+        for category, title in (("bottles", "Alcohol"), ("syrups", "Syrups"),
+                                ("always_available", "Basics")):
             print(title + ": " + ", ".join(
                 item["type"] + (f" ({item['brand']})" if item["brand"] else "")
-                + ("" if item["at_home"] is True else " [нет дома]" if item["at_home"] is False else " [не проверено]")
+                + ("" if item["at_home"] is True else " [not at home]" if item["at_home"] is False else " [not checked]")
                 for item in inventory[category]))
         return
     if args.command == "readme":
@@ -213,7 +213,7 @@ def main():
         return
     if args.command == "iba":
         aliases = read("iba_aliases.json")
-        groups = {"Можно сделать": [], "Не хватает одного": [], "Не хватает двух и больше": []}
+        groups = {"Can make": [], "Missing one": [], "Missing two or more": []}
         for name, recipe in read("iba_recipes.json").items():
             missing = iba_missing(recipe, available, aliases)
             group = list(groups)[min(len(missing), 2)]
@@ -227,29 +227,29 @@ def main():
         choices = dict(options(recipes))
         unknown = [name for name in args.names if name not in choices]
         if unknown:
-            parser.error("Неизвестный коктейль или вариант: " + ", ".join(unknown))
+            parser.error("Unknown cocktail or variant: " + ", ".join(unknown))
         combined = set()
         for name in args.names:
             missing, unresolved = availability(choices[name], available)
             combined.update(missing)
-            print(name + ": " + ("докупить " + ", ".join(missing) if missing else "все записанные ингредиенты есть"))
+            print(name + ": " + ("buy " + ", ".join(missing) if missing else "all listed ingredients are at home"))
             if unresolved:
-                print("  Состав не уточнён полностью; список покупок может быть неполным.")
-        print("Общий список покупок: " + (", ".join(sorted(combined)) or "пусто"))
+                print("  Recipe is not fully confirmed; the shopping list may be incomplete.")
+        print("Shopping list: " + (", ".join(sorted(combined)) or "empty"))
         return
     if not recipes:
         print("No cocktails yet. Add your own recipes to recipes.json to get started.")
         return
     if args.command == "menu":
-        groups = {"Можно приготовить по наличию ингредиентов": [], "Нужно докупить": [], "Нужно уточнить состав": []}
+        groups = {"Can make now": [], "Need to buy": [], "Recipe to confirm": []}
         for name, recipe in options(recipes):
             missing, unresolved = availability(recipe, available)
             if unresolved:
-                groups["Нужно уточнить состав"].append(name + (": не хватает " + ", ".join(missing) if missing else ""))
+                groups["Recipe to confirm"].append(name + (": missing " + ", ".join(missing) if missing else ""))
             elif missing:
-                groups["Нужно докупить"].append(name + ": " + ", ".join(missing))
+                groups["Need to buy"].append(name + ": " + ", ".join(missing))
             else:
-                groups["Можно приготовить по наличию ингредиентов"].append(name)
+                groups["Can make now"].append(name)
         for title, entries in groups.items():
             print(title + ":")
             for entry in entries:
