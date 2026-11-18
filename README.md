@@ -11,11 +11,13 @@ This repo shows what I can make at home right now:
 | Cocktail | Build |
 | --- | --- |
 | Paradiso Tonic | 50 ml 9 di Dante Paradiso, 100 ml tonic water, Orange peel. |
-| Raspberry-Grapefruit Gin Sour | 35 ml gin, 25 ml Tanqueray grapefruit, 15 ml raspberry syrup, frozen raspberries, by eye, 1 egg egg white, 15 ml lemon juice |
+| Raspberry-Grapefruit Gin Sour | 35 ml gin, 25 ml Tanqueray grapefruit, 15 ml raspberry syrup, frozen raspberries, 1 egg white, 15 ml lemon juice |
 
 ## Not available yet
 
-I have more recipes, but I don't have everything at home to make them yet. If you want one of these, bring the missing ingredients and I'll make it for you:
+I have more recipes, but I don't have everything at home to make them yet. If you want one of these, bring the missing ingredients and I'll make it for you.
+
+I usually have the basics at home (ice, lemons, eggs), but check with me before you come in case you should bring some.
 
 | Cocktail | Bring |
 | --- | --- |
@@ -69,5 +71,3 @@ If you like what I do, you can contribute by buying something from the wishlist.
 | [Aperol glasses](https://www.amazon.de/-/en/dp/B0BMVNRYJP) |
 | [Riedel Nick and Nora glasses](https://www.amazon.de/-/en/gp/product/B07PPHJ6XG) |
 | [Rekix lemon squeezer](https://www.amazon.de/-/en/dp/B0CFXB35C3) |
-
-Refresh with `python3 bar.py readme`.

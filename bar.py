@@ -28,7 +28,7 @@ def options(recipes):
 
 
 def availability(recipe, available):
-    unresolved = recipe.get("ingredients_incomplete", False) or not recipe["ingredients"]
+    unresolved = not recipe["ingredients"]
     missing = []
     for ingredient, _, _ in recipe["ingredients"]:
         if "to confirm" in ingredient:
@@ -48,10 +48,10 @@ def linked(name, url):
 
 def ingredient_text(row):
     name, amount, unit = row
-    if unit == "by eye":
-        return f"{name}, by eye"
-    if amount is None:
+    if unit == "by eye" or amount is None:
         return name
+    if unit.casefold() in name.casefold():
+        return f"{amount:g} {name}"
     return f"{amount:g} {unit} {name}"
 
 
@@ -112,7 +112,10 @@ def readme_text(recipes, inventory, wishlist):
         "## Not available yet",
         "",
         "I have more recipes, but I don't have everything at home to make them yet. "
-        "If you want one of these, bring the missing ingredients and I'll make it for you:",
+        "If you want one of these, bring the missing ingredients and I'll make it for you.",
+        "",
+        "I usually have the basics at home (ice, lemons, eggs), but check with me before you come "
+        "in case you should bring some.",
         "",
     ])
     lines.extend(markdown_table(("Cocktail", "Bring"), missing_rows(recipes, inventory, available)))
@@ -124,7 +127,6 @@ def readme_text(recipes, inventory, wishlist):
         "",
     ])
     lines.extend(markdown_table(("Item",), missing_alcohol))
-    lines.extend(["", "Refresh with `python3 bar.py readme`."])
     return "\n".join(lines) + "\n"
 
 
@@ -142,7 +144,7 @@ def requirements(orders, recipes):
     totals = defaultdict(float)
     for name, count in orders:
         recipe = recipes[name]
-        if recipe.get("pending") or not recipe["ingredients"] or any(
+        if not recipe["ingredients"] or any(
             amount is None and unit != "by eye" for _, amount, unit in recipe["ingredients"]
         ):
             raise ValueError(f"{name} is a draft. Confirm its recipe before calculating quantities.")
@@ -224,8 +226,7 @@ def main():
             elif missing:
                 groups["Нужно докупить"].append(name + ": " + ", ".join(missing))
             else:
-                groups["Можно приготовить по наличию ингредиентов"].append(
-                    name + (" (пропорции или метод ещё уточняются)" if recipe.get("pending") else ""))
+                groups["Можно приготовить по наличию ингредиентов"].append(name)
         for title, entries in groups.items():
             print(title + ":")
             for entry in entries:
@@ -243,30 +244,14 @@ def main():
                 continue
             quantity = f"{amount:g}" if amount is not None else "TBC"
             print(f"  {quantity} {unit} {ingredient}")
-        if recipe.get("method"):
-            print(recipe["method"])
-        if recipe.get("attribution"):
-            attribution = recipe["attribution"]
-            print(f"Source: {attribution['venue']}, {attribution['year']} ({attribution['basis']})")
-        if recipe.get("menu_status"):
-            print(recipe["menu_status"])
         for name, variation in recipe.get("variations", {}).items():
             print("Variant: " + name)
-            for ingredient, amount, unit in variation.get("additional_ingredients", []):
-                quantity = f"{amount:g}" if amount is not None else "TBC"
-                print(f"  + {quantity} {unit} {ingredient}")
-            if variation.get("note"):
-                print(variation["note"])
+            for row in variation.get("additional_ingredients", []):
+                print("  + " + ingredient_text(row))
         if recipe.get("garnish"):
             print("Garnish: " + recipe["garnish"])
-        if recipe.get("tags"):
-            print(" ".join(recipe["tags"]))
-        if recipe.get("note"):
-            print(recipe["note"])
         if recipe.get("source"):
             print("Source: " + recipe["source"])
-        for detail in recipe.get("pending", []):
-            print("To confirm: " + detail)
     else:
         orders = []
         for order in args.orders:
