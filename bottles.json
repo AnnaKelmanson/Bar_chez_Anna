@@ -185,6 +185,12 @@
       "brand": "Kahlúa",
       "purchase_url": "https://www.drinks.ch/de/kahlua-70cl.html",
       "at_home": false
+    },
+    {
+      "type": "Baileys Salted Caramel",
+      "brand": null,
+      "purchase_url": "https://www.drinks.ch/de/baileys-salted-caramel-likoer-70cl.html",
+      "at_home": false
     }
   ],
   "syrups": [

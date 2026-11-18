@@ -64,6 +64,7 @@ If you like what I do, you can contribute by buying something from the wishlist.
 | [Aquavit (Linie Aquavit)](https://www.drinks.ch/de/linie-aquavit-70cl.html) | ★★ |
 | [Lillet Rose (Lillet Rosé)](https://www.drinks.ch/de/lillet-rose-aperitif-75cl.html) | ★★ |
 | [Coffee liqueur (Kahlúa)](https://www.drinks.ch/de/kahlua-70cl.html) | ★★ |
+| [Baileys Salted Caramel](https://www.drinks.ch/de/baileys-salted-caramel-likoer-70cl.html) | ★★ |
 | [Black rum (Bacardi)](https://www.aligro.ch/produits/1843-BOT/bacardi-carta-negra-37-5-vol) | ★ |
 | [White rum (Bacardi Carta Blanca)](https://www.aligro.ch/produits/113012-BOT/bacardi-carta-blanca-37-5-vol) | ★ |
 | [Vodka (Absolut)](https://www.aligro.ch/produits/114043-BOT/vodka-absolut-40-vol) | ★ |

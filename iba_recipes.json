@@ -2,2767 +2,1204 @@
   "Alexander": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "cognac",
-        30,
-        "ml"
-      ],
-      [
-        "dark crème de cacao",
-        30,
-        "ml"
-      ],
-      [
-        "cream",
-        30,
-        "ml"
-      ]
+      ["cognac", 30, "ml"],
+      ["dark crème de cacao", 30, "ml"],
+      ["cream", 30, "ml"]
     ],
     "garnish": "Sprinkle fresh ground nutmeg on top.",
     "source": "https://iba-world.com/iba-cocktail/alexander/"
   },
+
   "Americano": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "Campari",
-        30,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        30,
-        "ml"
-      ],
-      [
-        "soda water",
-        null,
-        "by eye"
-      ]
+      ["Campari", 30, "ml"],
+      ["sweet vermouth", 30, "ml"],
+      ["soda water", null, "by eye"]
     ],
     "garnish": "Half orange slice and a lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/americano/"
   },
+
   "Angel Face": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "apricot brandy",
-        30,
-        "ml"
-      ],
-      [
-        "calvados",
-        30,
-        "ml"
-      ]
+      ["gin", 30, "ml"],
+      ["apricot brandy", 30, "ml"],
+      ["calvados", 30, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/angel-face/"
   },
+
   "Aviation": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        15,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "crème de violette",
-        1,
-        "barspoon"
-      ]
+      ["gin", 45, "ml"],
+      ["maraschino liqueur", 15, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["crème de violette", 1, "barspoon"]
     ],
     "garnish": "Optional Maraschino Cherry.",
     "source": "https://iba-world.com/iba-cocktail/aviation/"
   },
+
   "Bee’s Knees": {
     "category": "New Era",
     "ingredients": [
-      [
-        "gin",
-        52.5,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        2,
-        "tsp"
-      ],
-      [
-        "lemon juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "orange juice",
-        22.5,
-        "ml"
-      ]
+      ["gin", 52.5, "ml"],
+      ["honey syrup", 2, "tsp"],
+      ["lemon juice", 22.5, "ml"],
+      ["orange juice", 22.5, "ml"]
     ],
     "garnish": "Optionally garnish with a lemon or orange zest.",
     "source": "https://iba-world.com/iba-cocktail/bees-knees/"
   },
+
   "Bellini": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "prosecco",
-        100,
-        "ml"
-      ],
-      [
-        "white peach puree",
-        50,
-        "ml"
-      ]
+      ["prosecco", 100, "ml"],
+      ["white peach puree", 50, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/bellini/"
   },
+
   "Between the Sheets": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "white rum",
-        30,
-        "ml"
-      ],
-      [
-        "cognac",
-        30,
-        "ml"
-      ],
-      [
-        "triple sec",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        20,
-        "ml"
-      ]
+      ["white rum", 30, "ml"],
+      ["cognac", 30, "ml"],
+      ["triple sec", 30, "ml"],
+      ["lemon juice", 20, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/between-the-sheets/"
   },
+
   "Black Russian": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        50,
-        "ml"
-      ],
-      [
-        "coffee liqueur",
-        20,
-        "ml"
-      ]
+      ["vodka", 50, "ml"],
+      ["coffee liqueur", 20, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/black-russian/"
   },
+
   "Bloody Mary": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        45,
-        "ml"
-      ],
-      [
-        "tomato juice",
-        90,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "Worcestershire sauce",
-        2,
-        "dash"
-      ],
-      [
-        "Tabasco",
-        null,
-        "by eye"
-      ],
-      [
-        "celery salt",
-        null,
-        "by eye"
-      ],
-      [
-        "black pepper",
-        null,
-        "by eye"
-      ]
+      ["vodka", 45, "ml"],
+      ["tomato juice", 90, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["Worcestershire sauce", 2, "dash"],
+      ["Tabasco", null, "by eye"],
+      ["celery salt", null, "by eye"],
+      ["black pepper", null, "by eye"]
     ],
     "garnish": "Celery, lemon wedge (Optional).",
     "source": "https://iba-world.com/iba-cocktail/bloody-mary/"
   },
+
   "Boulevardier": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "bourbon",
-        45,
-        "ml"
-      ],
-      [
-        "Campari",
-        30,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        30,
-        "ml"
-      ]
+      ["bourbon", 45, "ml"],
+      ["Campari", 30, "ml"],
+      ["sweet vermouth", 30, "ml"]
     ],
     "garnish": "A orange zest, optionally a lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/boulevardier/"
   },
+
   "Bramble": {
     "category": "New Era",
     "ingredients": [
-      [
-        "gin",
-        50,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        25,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        12.5,
-        "ml"
-      ],
-      [
-        "crème de mûre",
-        15,
-        "ml"
-      ]
+      ["gin", 50, "ml"],
+      ["lemon juice", 25, "ml"],
+      ["simple syrup", 12.5, "ml"],
+      ["crème de mûre", 15, "ml"]
     ],
     "garnish": "Garnish optionally with a lemon slice and blackberries.",
     "source": "https://iba-world.com/iba-cocktail/bramble/"
   },
+
   "Brandy Crusta": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "brandy",
-        52.5,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        7.5,
-        "ml"
-      ],
-      [
-        "orange curaçao",
-        1,
-        "barspoon"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        1,
-        "barspoon"
-      ],
-      [
-        "aromatic bitters",
-        2,
-        "dash"
-      ]
+      ["brandy", 52.5, "ml"],
+      ["maraschino liqueur", 7.5, "ml"],
+      ["orange curaçao", 1, "barspoon"],
+      ["lemon juice", 15, "ml"],
+      ["simple syrup", 1, "barspoon"],
+      ["aromatic bitters", 2, "dash"]
     ],
     "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
     "source": "https://iba-world.com/iba-cocktail/brandy-crusta/"
   },
+
   "Caipirinha": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "cachaça",
-        60,
-        "ml"
-      ],
-      [
-        "lime",
-        1,
-        "piece"
-      ],
-      [
-        "sugar",
-        4,
-        "tsp"
-      ]
+      ["cachaça", 60, "ml"],
+      ["lime", 1, "piece"],
+      ["sugar", 4, "tsp"]
     ],
     "source": "https://iba-world.com/iba-cocktail/caipirinha/"
   },
+
   "Canchanchara": {
     "category": "New Era",
     "ingredients": [
-      [
-        "aguardiente",
-        60,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "honey",
-        15,
-        "ml"
-      ],
-      [
-        "water",
-        50,
-        "ml"
-      ]
+      ["aguardiente", 60, "ml"],
+      ["lime juice", 15, "ml"],
+      ["honey", 15, "ml"],
+      ["water", 50, "ml"]
     ],
     "garnish": "A lime wedge.",
     "source": "https://iba-world.com/iba-cocktail/canchanchara/"
   },
+
   "Cardinale": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "gin",
-        40,
-        "ml"
-      ],
-      [
-        "dry vermouth",
-        20,
-        "ml"
-      ],
-      [
-        "Campari",
-        10,
-        "ml"
-      ]
+      ["gin", 40, "ml"],
+      ["dry vermouth", 20, "ml"],
+      ["Campari", 10, "ml"]
     ],
     "garnish": "A lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/cardinale/"
   },
+
   "Casino": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "Old Tom gin",
-        40,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        10,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        10,
-        "ml"
-      ],
-      [
-        "orange bitters",
-        2,
-        "dash"
-      ]
+      ["Old Tom gin", 40, "ml"],
+      ["maraschino liqueur", 10, "ml"],
+      ["lemon juice", 10, "ml"],
+      ["orange bitters", 2, "dash"]
     ],
     "garnish": "A lemon zest and a maraschino cherry.",
     "source": "https://iba-world.com/iba-cocktail/casino/"
   },
+
   "Champagne Cocktail": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "champagne",
-        90,
-        "ml"
-      ],
-      [
-        "cognac",
-        10,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "dash"
-      ],
-      [
-        "Grand Marnier",
-        null,
-        "by eye"
-      ],
-      [
-        "sugar",
-        1,
-        "cube"
-      ]
+      ["champagne", 90, "ml"],
+      ["cognac", 10, "ml"],
+      ["Angostura bitters", 2, "dash"],
+      ["Grand Marnier", null, "by eye"],
+      ["sugar", 1, "cube"]
     ],
     "garnish": "Orange zest and maraschino cherry.",
     "source": "https://iba-world.com/iba-cocktail/champagne-cocktail/"
   },
+
   "Chartreuse Swizzle": {
     "category": "New Era",
     "ingredients": [
-      [
-        "green Chartreuse",
-        45,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        30,
-        "ml"
-      ],
-      [
-        "lime juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "falernum",
-        15,
-        "ml"
-      ]
+      ["green Chartreuse", 45, "ml"],
+      ["pineapple juice", 30, "ml"],
+      ["lime juice", 22.5, "ml"],
+      ["falernum", 15, "ml"]
     ],
     "garnish": "Mint leaves and grated nutmeg.",
     "source": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/"
   },
+
   "Clover Club": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "raspberry syrup",
-        15,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ]
+      ["gin", 45, "ml"],
+      ["raspberry syrup", 15, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["egg white", null, "by eye"]
     ],
     "garnish": "Fresh raspberries.",
     "source": "https://iba-world.com/iba-cocktail/clover-club/"
   },
+
   "Corpse Reviver #2": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "Cointreau",
-        30,
-        "ml"
-      ],
-      [
-        "Lillet Blanc",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "absinthe",
-        1,
-        "dash"
-      ]
+      ["gin", 30, "ml"],
+      ["Cointreau", 30, "ml"],
+      ["Lillet Blanc", 30, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["absinthe", 1, "dash"]
     ],
     "garnish": "An orange zest.",
     "source": "https://iba-world.com/iba-cocktail/corpse-reviver-2/"
   },
+
   "Cosmopolitan": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "citron vodka",
-        40,
-        "ml"
-      ],
-      [
-        "Cointreau",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "cranberry juice",
-        30,
-        "ml"
-      ]
+      ["citron vodka", 40, "ml"],
+      ["Cointreau", 15, "ml"],
+      ["lime juice", 15, "ml"],
+      ["cranberry juice", 30, "ml"]
     ],
     "garnish": "Lemon twist.",
     "source": "https://iba-world.com/iba-cocktail/cosmopolitan/"
   },
+
   "Cuba Libre": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "white rum",
-        50,
-        "ml"
-      ],
-      [
-        "cola",
-        120,
-        "ml"
-      ],
-      [
-        "lime juice",
-        10,
-        "ml"
-      ]
+      ["white rum", 50, "ml"],
+      ["cola", 120, "ml"],
+      ["lime juice", 10, "ml"]
     ],
     "garnish": "Lime wedge.",
     "source": "https://iba-world.com/iba-cocktail/cuba-libre/"
   },
+
   "Daiquiri": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "white rum",
-        60,
-        "ml"
-      ],
-      [
-        "lime juice",
-        20,
-        "ml"
-      ],
-      [
-        "sugar",
-        2,
-        "barspoon"
-      ]
+      ["white rum", 60, "ml"],
+      ["lime juice", 20, "ml"],
+      ["sugar", 2, "barspoon"]
     ],
     "source": "https://iba-world.com/iba-cocktail/daiquiri/"
   },
+
   "Dark ‘N’ Stormy": {
     "category": "New Era",
     "ingredients": [
-      [
-        "dark rum",
-        60,
-        "ml"
-      ],
-      [
-        "ginger beer",
-        100,
-        "ml"
-      ]
+      ["dark rum", 60, "ml"],
+      ["ginger beer", 100, "ml"]
     ],
     "garnish": "A lime wedge or slice.",
     "source": "https://iba-world.com/iba-cocktail/dark-n-stormy/"
   },
+
   "Don's Special Daiquiri": {
     "category": "New Era",
     "ingredients": [
-      [
-        "Jamaican rum",
-        30,
-        "ml"
-      ],
-      [
-        "Cuban rum",
-        15,
-        "ml"
-      ],
-      [
-        "passion fruit syrup",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        15,
-        "ml"
-      ]
+      ["Jamaican rum", 30, "ml"],
+      ["Cuban rum", 15, "ml"],
+      ["passion fruit syrup", 15, "ml"],
+      ["lime juice", 15, "ml"],
+      ["honey syrup", 15, "ml"]
     ],
     "garnish": "1/2 passion fruit",
     "source": "https://iba-world.com/iba-cocktail/dons-special-daiquiri/"
   },
+
   "Dry Martini": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        60,
-        "ml"
-      ],
-      [
-        "dry vermouth",
-        10,
-        "ml"
-      ]
+      ["gin", 60, "ml"],
+      ["dry vermouth", 10, "ml"]
     ],
     "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with a green olives if requested.",
     "source": "https://iba-world.com/iba-cocktail/dry-martini/"
   },
+
   "Espresso Martini": {
     "category": "New Era",
     "ingredients": [
-      [
-        "vodka",
-        50,
-        "ml"
-      ],
-      [
-        "coffee liqueur",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        10,
-        "ml"
-      ],
-      [
-        "espresso",
-        1,
-        "piece"
-      ]
+      ["vodka", 50, "ml"],
+      ["coffee liqueur", 30, "ml"],
+      ["simple syrup", 10, "ml"],
+      ["espresso", 1, "piece"]
     ],
     "garnish": "3 coffee beans",
     "source": "https://iba-world.com/iba-cocktail/espresso-martini/"
   },
+
   "Fernandito": {
     "category": "New Era",
     "ingredients": [
-      [
-        "fernet",
-        50,
-        "ml"
-      ],
-      [
-        "cola",
-        null,
-        "by eye"
-      ]
+      ["fernet", 50, "ml"],
+      ["cola", null, "by eye"]
     ],
     "source": "https://iba-world.com/iba-cocktail/fernandito/"
   },
+
   "French 75": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        15,
-        "ml"
-      ],
-      [
-        "champagne",
-        60,
-        "ml"
-      ]
+      ["gin", 30, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["simple syrup", 15, "ml"],
+      ["champagne", 60, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/french-75/"
   },
+
   "French Connection": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "cognac",
-        35,
-        "ml"
-      ],
-      [
-        "amaretto",
-        35,
-        "ml"
-      ]
+      ["cognac", 35, "ml"],
+      ["amaretto", 35, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/french-connection/"
   },
+
   "French Martini": {
     "category": "New Era",
     "ingredients": [
-      [
-        "vodka",
-        45,
-        "ml"
-      ],
-      [
-        "raspberry liqueur",
-        15,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        15,
-        "ml"
-      ]
+      ["vodka", 45, "ml"],
+      ["raspberry liqueur", 15, "ml"],
+      ["pineapple juice", 15, "ml"]
     ],
     "garnish": "Squeeze oil from lemon peel onto the drink.",
     "source": "https://iba-world.com/iba-cocktail/french-martini/"
   },
+
   "Garibaldi": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "Campari",
-        45,
-        "ml"
-      ],
-      [
-        "orange juice",
-        120,
-        "ml"
-      ]
+      ["Campari", 45, "ml"],
+      ["orange juice", 120, "ml"]
     ],
     "garnish": "An orange wedge.",
     "source": "https://iba-world.com/iba-cocktail/garibaldi/"
   },
+
   "Gin Basil Smash": {
     "category": "New Era",
     "ingredients": [
-      [
-        "gin",
-        60,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        22.5,
-        "ml"
-      ],
-      [
-        "basil",
-        10,
-        "leaf"
-      ]
+      ["gin", 60, "ml"],
+      ["lemon juice", 22.5, "ml"],
+      ["simple syrup", 22.5, "ml"],
+      ["basil", 10, "leaf"]
     ],
     "source": "https://iba-world.com/iba-cocktail/gin-basil-smash/"
   },
+
   "Gin Fizz": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        10,
-        "ml"
-      ],
-      [
-        "soda water",
-        null,
-        "by eye"
-      ]
+      ["gin", 45, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["simple syrup", 10, "ml"],
+      ["soda water", null, "by eye"]
     ],
     "garnish": "Lemon slice, optional lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/gin-fizz/"
   },
+
   "Grand Margarita": {
     "category": "New Era",
     "ingredients": [
-      [
-        "tequila",
-        45,
-        "ml"
-      ],
-      [
-        "Grand Marnier",
-        30,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ]
+      ["tequila", 45, "ml"],
+      ["Grand Marnier", 30, "ml"],
+      ["lime juice", 15, "ml"]
     ],
     "garnish": "A lime slice.",
     "source": "https://iba-world.com/iba-cocktail/grand-margarita/"
   },
+
   "Grasshopper": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "white crème de cacao",
-        20,
-        "ml"
-      ],
-      [
-        "green crème de menthe",
-        20,
-        "ml"
-      ],
-      [
-        "cream",
-        20,
-        "ml"
-      ]
+      ["white crème de cacao", 20, "ml"],
+      ["green crème de menthe", 20, "ml"],
+      ["cream", 20, "ml"]
     ],
     "garnish": "Optional mint leave.",
     "source": "https://iba-world.com/iba-cocktail/grasshopper/"
   },
+
   "Hanky Panky": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        45,
-        "ml"
-      ],
-      [
-        "fernet",
-        7.5,
-        "ml"
-      ]
+      ["gin", 45, "ml"],
+      ["sweet vermouth", 45, "ml"],
+      ["fernet", 7.5, "ml"]
     ],
     "garnish": "Orange zest.",
     "source": "https://iba-world.com/iba-cocktail/hanky-panky/"
   },
+
   "Hemingway Special": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "rum",
-        60,
-        "ml"
-      ],
-      [
-        "grapefruit juice",
-        40,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ]
+      ["rum", 60, "ml"],
+      ["grapefruit juice", 40, "ml"],
+      ["maraschino liqueur", 15, "ml"],
+      ["lime juice", 15, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/hemingway-special/"
   },
+
   "Horse’s Neck": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "cognac",
-        40,
-        "ml"
-      ],
-      [
-        "ginger ale",
-        120,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        1,
-        "dash"
-      ]
+      ["cognac", 40, "ml"],
+      ["ginger ale", 120, "ml"],
+      ["Angostura bitters", 1, "dash"]
     ],
     "garnish": "Rind of one lemon spiral.",
     "source": "https://iba-world.com/iba-cocktail/horses-neck/"
   },
+
   "IBA Tiki": {
     "category": "New Era",
     "ingredients": [
-      [
-        "aged rum",
-        30,
-        "ml"
-      ],
-      [
-        "smoky rum",
-        30,
-        "ml"
-      ],
-      [
-        "amaretto",
-        15,
-        "ml"
-      ],
-      [
-        "hazelnut liqueur",
-        5,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        5,
-        "drop"
-      ],
-      [
-        "passion fruit puree",
-        30,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        90,
-        "ml"
-      ],
-      [
-        "lime juice",
-        30,
-        "ml"
-      ],
-      [
-        "ginger",
-        1,
-        "slice"
-      ]
+      ["aged rum", 30, "ml"],
+      ["smoky rum", 30, "ml"],
+      ["amaretto", 15, "ml"],
+      ["hazelnut liqueur", 5, "ml"],
+      ["maraschino liqueur", 5, "drop"],
+      ["passion fruit puree", 30, "ml"],
+      ["pineapple juice", 90, "ml"],
+      ["lime juice", 30, "ml"],
+      ["ginger", 1, "slice"]
     ],
     "garnish": "Citruses and dehydrated pineapple slice.",
     "source": "https://iba-world.com/iba-cocktail/iba-tiki/"
   },
+
   "Illegal": {
     "category": "New Era",
     "ingredients": [
-      [
-        "mezcal",
-        30,
-        "ml"
-      ],
-      [
-        "overproof white rum",
-        15,
-        "ml"
-      ],
-      [
-        "falernum",
-        15,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        1,
-        "barspoon"
-      ],
-      [
-        "lime juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        15,
-        "ml"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ]
+      ["mezcal", 30, "ml"],
+      ["overproof white rum", 15, "ml"],
+      ["falernum", 15, "ml"],
+      ["maraschino liqueur", 1, "barspoon"],
+      ["lime juice", 22.5, "ml"],
+      ["simple syrup", 15, "ml"],
+      ["egg white", null, "by eye"]
     ],
     "source": "https://iba-world.com/iba-cocktail/illegal/"
   },
+
   "Irish Coffee": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "Irish whiskey",
-        50,
-        "ml"
-      ],
-      [
-        "hot coffee",
-        120,
-        "ml"
-      ],
-      [
-        "cream",
-        50,
-        "ml"
-      ],
-      [
-        "sugar",
-        1,
-        "tsp"
-      ]
+      ["Irish whiskey", 50, "ml"],
+      ["hot coffee", 120, "ml"],
+      ["cream", 50, "ml"],
+      ["sugar", 1, "tsp"]
     ],
     "source": "https://iba-world.com/iba-cocktail/irish-coffee/"
   },
+
   "John Collins": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        15,
-        "ml"
-      ],
-      [
-        "soda water",
-        60,
-        "ml"
-      ]
+      ["gin", 45, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["simple syrup", 15, "ml"],
+      ["soda water", 60, "ml"]
     ],
     "garnish": "Lemon slice and maraschino cherry.",
     "source": "https://iba-world.com/iba-cocktail/john-collins/"
   },
+
   "Jungle Bird": {
     "category": "New Era",
     "ingredients": [
-      [
-        "blackstrap rum",
-        45,
-        "ml"
-      ],
-      [
-        "Campari",
-        22.5,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        45,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "demerara syrup",
-        15,
-        "ml"
-      ]
+      ["blackstrap rum", 45, "ml"],
+      ["Campari", 22.5, "ml"],
+      ["pineapple juice", 45, "ml"],
+      ["lime juice", 15, "ml"],
+      ["demerara syrup", 15, "ml"]
     ],
     "garnish": "A pineapple wedge.",
     "source": "https://iba-world.com/iba-cocktail/jungle-bird/"
   },
+
   "Kir": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "dry white wine",
-        90,
-        "ml"
-      ],
-      [
-        "crème de cassis",
-        10,
-        "ml"
-      ]
+      ["dry white wine", 90, "ml"],
+      ["crème de cassis", 10, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/kir/"
   },
+
   "Last Word": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        22.5,
-        "ml"
-      ],
-      [
-        "green Chartreuse",
-        22.5,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        22.5,
-        "ml"
-      ],
-      [
-        "lime juice",
-        22.5,
-        "ml"
-      ]
+      ["gin", 22.5, "ml"],
+      ["green Chartreuse", 22.5, "ml"],
+      ["maraschino liqueur", 22.5, "ml"],
+      ["lime juice", 22.5, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/last-word/"
   },
+
   "Lemon Drop Martini": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        30,
-        "ml"
-      ],
-      [
-        "triple sec",
-        20,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ]
+      ["vodka", 30, "ml"],
+      ["triple sec", 20, "ml"],
+      ["lemon juice", 15, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/lemon-drop-martini/"
   },
+
   "Long Island Iced Tea": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        15,
-        "ml"
-      ],
-      [
-        "tequila",
-        15,
-        "ml"
-      ],
-      [
-        "white rum",
-        15,
-        "ml"
-      ],
-      [
-        "gin",
-        15,
-        "ml"
-      ],
-      [
-        "Cointreau",
-        15,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        25,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        30,
-        "ml"
-      ],
-      [
-        "cola",
-        null,
-        "by eye"
-      ]
+      ["vodka", 15, "ml"],
+      ["tequila", 15, "ml"],
+      ["white rum", 15, "ml"],
+      ["gin", 15, "ml"],
+      ["Cointreau", 15, "ml"],
+      ["lemon juice", 25, "ml"],
+      ["simple syrup", 30, "ml"],
+      ["cola", null, "by eye"]
     ],
     "garnish": "Lemon slice (Optional).",
     "source": "https://iba-world.com/iba-cocktail/long-island-iced-tea/"
   },
+
   "Mai-Tai": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "Jamaican rum",
-        30,
-        "ml"
-      ],
-      [
-        "Martinique rum",
-        30,
-        "ml"
-      ],
-      [
-        "orange curaçao",
-        15,
-        "ml"
-      ],
-      [
-        "orgeat syrup",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        7.5,
-        "ml"
-      ]
+      ["Jamaican rum", 30, "ml"],
+      ["Martinique rum", 30, "ml"],
+      ["orange curaçao", 15, "ml"],
+      ["orgeat syrup", 15, "ml"],
+      ["lime juice", 30, "ml"],
+      ["simple syrup", 7.5, "ml"]
     ],
     "garnish": "Pineapple spear, mint leaves and lime peel.",
     "source": "https://iba-world.com/iba-cocktail/mai-tai/"
   },
+
   "Manhattan": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "rye whiskey",
-        50,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        20,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        1,
-        "dash"
-      ]
+      ["rye whiskey", 50, "ml"],
+      ["sweet vermouth", 20, "ml"],
+      ["Angostura bitters", 1, "dash"]
     ],
     "garnish": "Cocktail cherry.",
     "source": "https://iba-world.com/iba-cocktail/manhattan/"
   },
+
   "Margarita": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "tequila",
-        50,
-        "ml"
-      ],
-      [
-        "triple sec",
-        20,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ]
+      ["tequila", 50, "ml"],
+      ["triple sec", 20, "ml"],
+      ["lime juice", 15, "ml"]
     ],
     "garnish": "Half salt rim (Optional).",
     "source": "https://iba-world.com/iba-cocktail/margarita/"
   },
+
   "Martinez": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        45,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        1,
-        "barspoon"
-      ],
-      [
-        "orange bitters",
-        2,
-        "dash"
-      ]
+      ["gin", 45, "ml"],
+      ["sweet vermouth", 45, "ml"],
+      ["maraschino liqueur", 1, "barspoon"],
+      ["orange bitters", 2, "dash"]
     ],
     "garnish": "Lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/martinez/"
   },
+
   "Mary Pickford": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "white rum",
-        45,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        45,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        7.5,
-        "ml"
-      ],
-      [
-        "grenadine",
-        5,
-        "ml"
-      ]
+      ["white rum", 45, "ml"],
+      ["pineapple juice", 45, "ml"],
+      ["maraschino liqueur", 7.5, "ml"],
+      ["grenadine", 5, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/mary-pickford/"
   },
+
   "Mimosa": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "orange juice",
-        75,
-        "ml"
-      ],
-      [
-        "prosecco",
-        75,
-        "ml"
-      ]
+      ["orange juice", 75, "ml"],
+      ["prosecco", 75, "ml"]
     ],
     "garnish": "Orange twist (optional).",
     "source": "https://iba-world.com/iba-cocktail/mimosa/"
   },
+
   "Mint Julep": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "bourbon",
-        60,
-        "ml"
-      ],
-      [
-        "mint",
-        4,
-        "sprig"
-      ],
-      [
-        "sugar",
-        1,
-        "tsp"
-      ],
-      [
-        "water",
-        2,
-        "tsp"
-      ]
+      ["bourbon", 60, "ml"],
+      ["mint", 4, "sprig"],
+      ["sugar", 1, "tsp"],
+      ["water", 2, "tsp"]
     ],
     "garnish": "A mint sprig.",
     "source": "https://iba-world.com/iba-cocktail/mint-julep/"
   },
+
   "Missionary's Downfall": {
     "category": "New Era",
     "ingredients": [
-      [
-        "white rum",
-        30,
-        "ml"
-      ],
-      [
-        "peach brandy",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        30,
-        "ml"
-      ],
-      [
-        "mint",
-        10,
-        "leaf"
-      ],
-      [
-        "pineapple",
-        3,
-        "piece"
-      ]
+      ["white rum", 30, "ml"],
+      ["peach brandy", 15, "ml"],
+      ["lime juice", 15, "ml"],
+      ["honey syrup", 30, "ml"],
+      ["mint", 10, "leaf"],
+      ["pineapple", 3, "piece"]
     ],
     "garnish": "Mint sprig and a slice of pineapple.",
     "source": "https://iba-world.com/iba-cocktail/missionarys-downfall/"
   },
+
   "Mojito": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "white rum",
-        45,
-        "ml"
-      ],
-      [
-        "lime juice",
-        20,
-        "ml"
-      ],
-      [
-        "mint",
-        6,
-        "sprig"
-      ],
-      [
-        "sugar",
-        2,
-        "tsp"
-      ],
-      [
-        "soda water",
-        null,
-        "by eye"
-      ]
+      ["white rum", 45, "ml"],
+      ["lime juice", 20, "ml"],
+      ["mint", 6, "sprig"],
+      ["sugar", 2, "tsp"],
+      ["soda water", null, "by eye"]
     ],
     "garnish": "Sprigs of mint and slice of lime.",
     "source": "https://iba-world.com/iba-cocktail/mojito/"
   },
+
   "Monkey Gland": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "orange juice",
-        45,
-        "ml"
-      ],
-      [
-        "absinthe",
-        3,
-        "tsp"
-      ],
-      [
-        "grenadine",
-        3,
-        "tsp"
-      ]
+      ["gin", 45, "ml"],
+      ["orange juice", 45, "ml"],
+      ["absinthe", 3, "tsp"],
+      ["grenadine", 3, "tsp"]
     ],
     "source": "https://iba-world.com/iba-cocktail/monkey-gland/"
   },
+
   "Moscow Mule": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        45,
-        "ml"
-      ],
-      [
-        "ginger beer",
-        120,
-        "ml"
-      ],
-      [
-        "lime juice",
-        10,
-        "ml"
-      ]
+      ["vodka", 45, "ml"],
+      ["ginger beer", 120, "ml"],
+      ["lime juice", 10, "ml"]
     ],
     "garnish": "A lime slice.",
     "source": "https://iba-world.com/iba-cocktail/moscow-mule/"
   },
+
   "Naked and Famous": {
     "category": "New Era",
     "ingredients": [
-      [
-        "mezcal",
-        22.5,
-        "ml"
-      ],
-      [
-        "yellow Chartreuse",
-        22.5,
-        "ml"
-      ],
-      [
-        "Aperol",
-        22.5,
-        "ml"
-      ],
-      [
-        "lime juice",
-        22.5,
-        "ml"
-      ]
+      ["mezcal", 22.5, "ml"],
+      ["yellow Chartreuse", 22.5, "ml"],
+      ["Aperol", 22.5, "ml"],
+      ["lime juice", 22.5, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/naked-and-famous/"
   },
+
   "Negroni": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "Campari",
-        30,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        30,
-        "ml"
-      ]
+      ["gin", 30, "ml"],
+      ["Campari", 30, "ml"],
+      ["sweet vermouth", 30, "ml"]
     ],
     "garnish": "Half orange slice.",
     "source": "https://iba-world.com/iba-cocktail/negroni/"
   },
+
   "New York Sour": {
     "category": "New Era",
     "ingredients": [
-      [
-        "rye whiskey",
-        60,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        22.5,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ],
-      [
-        "red wine",
-        15,
-        "ml"
-      ]
+      ["rye whiskey", 60, "ml"],
+      ["simple syrup", 22.5, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["egg white", null, "by eye"],
+      ["red wine", 15, "ml"]
     ],
     "garnish": "Lemon or orange zest with cherry.",
     "source": "https://iba-world.com/iba-cocktail/new-york-sour/"
   },
+
   "Old Cuban": {
     "category": "New Era",
     "ingredients": [
-      [
-        "mint",
-        6,
-        "leaf"
-      ],
-      [
-        "aged rum",
-        45,
-        "ml"
-      ],
-      [
-        "lime juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        30,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "dash"
-      ],
-      [
-        "champagne",
-        60,
-        "ml"
-      ]
+      ["mint", 6, "leaf"],
+      ["aged rum", 45, "ml"],
+      ["lime juice", 22.5, "ml"],
+      ["simple syrup", 30, "ml"],
+      ["Angostura bitters", 2, "dash"],
+      ["champagne", 60, "ml"]
     ],
     "garnish": "Mint springs.",
     "source": "https://iba-world.com/iba-cocktail/old-cuban/"
   },
+
   "Old Fashioned": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "bourbon",
-        45,
-        "ml"
-      ],
-      [
-        "sugar",
-        1,
-        "cube"
-      ],
-      [
-        "Angostura bitters",
-        null,
-        "by eye"
-      ],
-      [
-        "water",
-        null,
-        "by eye"
-      ]
+      ["bourbon", 45, "ml"],
+      ["sugar", 1, "cube"],
+      ["Angostura bitters", null, "by eye"],
+      ["water", null, "by eye"]
     ],
     "garnish": "Orange slice or zest, and a cocktail cherry.",
     "source": "https://iba-world.com/iba-cocktail/old-fashioned/"
   },
+
   "Paloma": {
     "category": "New Era",
     "ingredients": [
-      [
-        "tequila",
-        50,
-        "ml"
-      ],
-      [
-        "lime juice",
-        5,
-        "ml"
-      ],
-      [
-        "salt",
-        null,
-        "by eye"
-      ],
-      [
-        "pink grapefruit soda",
-        100,
-        "ml"
-      ]
+      ["tequila", 50, "ml"],
+      ["lime juice", 5, "ml"],
+      ["salt", null, "by eye"],
+      ["pink grapefruit soda", 100, "ml"]
     ],
     "garnish": "A slice of lime.",
     "source": "https://iba-world.com/iba-cocktail/paloma/"
   },
+
   "Paper Plane": {
     "category": "New Era",
     "ingredients": [
-      [
-        "bourbon",
-        30,
-        "ml"
-      ],
-      [
-        "Amaro Nonino",
-        30,
-        "ml"
-      ],
-      [
-        "Aperol",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ]
+      ["bourbon", 30, "ml"],
+      ["Amaro Nonino", 30, "ml"],
+      ["Aperol", 30, "ml"],
+      ["lemon juice", 30, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/paper-plane/"
   },
+
   "Paradise": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "apricot brandy",
-        20,
-        "ml"
-      ],
-      [
-        "orange juice",
-        15,
-        "ml"
-      ]
+      ["gin", 30, "ml"],
+      ["apricot brandy", 20, "ml"],
+      ["orange juice", 15, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/paradise/"
   },
+
   "Penicillin": {
     "category": "New Era",
     "ingredients": [
-      [
-        "Scotch whisky",
-        60,
-        "ml"
-      ],
-      [
-        "Islay Scotch whisky",
-        7.5,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        22.5,
-        "ml"
-      ],
-      [
-        "ginger",
-        2,
-        "slice"
-      ]
+      ["Scotch whisky", 60, "ml"],
+      ["Islay Scotch whisky", 7.5, "ml"],
+      ["lemon juice", 22.5, "ml"],
+      ["honey syrup", 22.5, "ml"],
+      ["ginger", 2, "slice"]
     ],
     "garnish": "Candied ginger slices.",
     "source": "https://iba-world.com/iba-cocktail/penicillin/"
   },
+
   "Pina Colada": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "white rum",
-        50,
-        "ml"
-      ],
-      [
-        "coconut cream",
-        30,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        50,
-        "ml"
-      ]
+      ["white rum", 50, "ml"],
+      ["coconut cream", 30, "ml"],
+      ["pineapple juice", 50, "ml"]
     ],
     "garnish": "A slice of pineapple with a cocktail cherry.",
     "source": "https://iba-world.com/iba-cocktail/pina-colada/"
   },
+
   "Pisco Punch": {
     "category": "New Era",
     "ingredients": [
-      [
-        "pisco",
-        60,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        15,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "dry white wine",
-        30,
-        "ml"
-      ],
-      [
-        "clove",
-        3,
-        "piece"
-      ]
+      ["pisco", 60, "ml"],
+      ["pineapple juice", 22.5, "ml"],
+      ["simple syrup", 15, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["dry white wine", 30, "ml"],
+      ["clove", 3, "piece"]
     ],
     "source": "https://iba-world.com/iba-cocktail/pisco-punch/"
   },
+
   "Pisco Sour": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "pisco",
-        60,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        20,
-        "ml"
-      ],
-      [
-        "egg white",
-        1,
-        "egg"
-      ]
+      ["pisco", 60, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["simple syrup", 20, "ml"],
+      ["egg white", 1, "egg"]
     ],
     "garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
     "source": "https://iba-world.com/iba-cocktail/pisco-sour/"
   },
+
   "Planters Punch": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "Jamaican rum",
-        45,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "sugar cane juice",
-        30,
-        "ml"
-      ]
+      ["Jamaican rum", 45, "ml"],
+      ["lime juice", 15, "ml"],
+      ["sugar cane juice", 30, "ml"]
     ],
     "garnish": "Orange zest.",
     "source": "https://iba-world.com/iba-cocktail/planters-punch/"
   },
+
   "Porn Star Martini": {
     "category": "New Era",
     "ingredients": [
-      [
-        "vanilla vodka",
-        50,
-        "ml"
-      ],
-      [
-        "passion fruit liqueur",
-        20,
-        "ml"
-      ],
-      [
-        "passion fruit puree",
-        50,
-        "ml"
-      ],
-      [
-        "vanilla sugar",
-        2,
-        "barspoon"
-      ],
-      [
-        "champagne",
-        50,
-        "ml"
-      ]
+      ["vanilla vodka", 50, "ml"],
+      ["passion fruit liqueur", 20, "ml"],
+      ["passion fruit puree", 50, "ml"],
+      ["vanilla sugar", 2, "barspoon"],
+      ["champagne", 50, "ml"]
     ],
     "garnish": "Passion fruit cup and sugar.",
     "source": "https://iba-world.com/iba-cocktail/porn-star-martini/"
   },
+
   "Porto Flip": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "brandy",
-        15,
-        "ml"
-      ],
-      [
-        "tawny port",
-        45,
-        "ml"
-      ],
-      [
-        "egg yolk",
-        10,
-        "ml"
-      ]
+      ["brandy", 15, "ml"],
+      ["tawny port", 45, "ml"],
+      ["egg yolk", 10, "ml"]
     ],
     "garnish": "Sprinkle with fresh ground nutmeg.",
     "source": "https://iba-world.com/iba-cocktail/porto-flip/"
   },
+
   "Rabo de Galo": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "cachaça",
-        60,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        20,
-        "ml"
-      ],
-      [
-        "Cynar",
-        15,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "drop"
-      ]
+      ["cachaça", 60, "ml"],
+      ["sweet vermouth", 20, "ml"],
+      ["Cynar", 15, "ml"],
+      ["Angostura bitters", 2, "drop"]
     ],
     "garnish": "A orange twist.",
     "source": "https://iba-world.com/iba-cocktail/rabo-de-galo/"
   },
+
   "Ramos Fizz": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        15,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        30,
-        "ml"
-      ],
-      [
-        "cream",
-        60,
-        "ml"
-      ],
-      [
-        "egg white",
-        30,
-        "ml"
-      ],
-      [
-        "orange flower water",
-        3,
-        "dash"
-      ],
-      [
-        "vanilla extract",
-        2,
-        "drop"
-      ],
-      [
-        "soda water",
-        null,
-        "by eye"
-      ]
+      ["gin", 45, "ml"],
+      ["lime juice", 15, "ml"],
+      ["lemon juice", 15, "ml"],
+      ["simple syrup", 30, "ml"],
+      ["cream", 60, "ml"],
+      ["egg white", 30, "ml"],
+      ["orange flower water", 3, "dash"],
+      ["vanilla extract", 2, "drop"],
+      ["soda water", null, "by eye"]
     ],
     "source": "https://iba-world.com/iba-cocktail/ramos-fizz/"
   },
+
   "Remember the Maine": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "rye whiskey",
-        60,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        22.5,
-        "ml"
-      ],
-      [
-        "cherry brandy",
-        15,
-        "ml"
-      ],
-      [
-        "absinthe",
-        7.5,
-        "ml"
-      ]
+      ["rye whiskey", 60, "ml"],
+      ["sweet vermouth", 22.5, "ml"],
+      ["cherry brandy", 15, "ml"],
+      ["absinthe", 7.5, "ml"]
     ],
     "garnish": "Lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/remember-the-maine/"
   },
+
   "Russian Spring Punch": {
     "category": "New Era",
     "ingredients": [
-      [
-        "vodka",
-        25,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        25,
-        "ml"
-      ],
-      [
-        "crème de cassis",
-        15,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        10,
-        "ml"
-      ],
-      [
-        "sparkling wine",
-        null,
-        "by eye"
-      ]
+      ["vodka", 25, "ml"],
+      ["lemon juice", 25, "ml"],
+      ["crème de cassis", 15, "ml"],
+      ["simple syrup", 10, "ml"],
+      ["sparkling wine", null, "by eye"]
     ],
     "garnish": "Blackberries and optionally a lemon slice as well.",
     "source": "https://iba-world.com/iba-cocktail/russian-spring-punch/"
   },
+
   "Rusty Nail": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "Scotch whisky",
-        45,
-        "ml"
-      ],
-      [
-        "Drambuie",
-        25,
-        "ml"
-      ]
+      ["Scotch whisky", 45, "ml"],
+      ["Drambuie", 25, "ml"]
     ],
     "garnish": "Lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/rusty-nail/"
   },
+
   "Sazerac": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "cognac",
-        50,
-        "ml"
-      ],
-      [
-        "absinthe",
-        10,
-        "ml"
-      ],
-      [
-        "sugar",
-        1,
-        "cube"
-      ],
-      [
-        "Peychaud's bitters",
-        2,
-        "dash"
-      ]
+      ["cognac", 50, "ml"],
+      ["absinthe", 10, "ml"],
+      ["sugar", 1, "cube"],
+      ["Peychaud's bitters", 2, "dash"]
     ],
     "garnish": "Lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/sazerac/"
   },
+
   "Sea Breeze": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        40,
-        "ml"
-      ],
-      [
-        "cranberry juice",
-        120,
-        "ml"
-      ],
-      [
-        "grapefruit juice",
-        30,
-        "ml"
-      ]
+      ["vodka", 40, "ml"],
+      ["cranberry juice", 120, "ml"],
+      ["grapefruit juice", 30, "ml"]
     ],
     "garnish": "An orange zest and cherry.",
     "source": "https://iba-world.com/iba-cocktail/sea-breeze/"
   },
+
   "Sex on the Beach": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "vodka",
-        40,
-        "ml"
-      ],
-      [
-        "peach schnapps",
-        20,
-        "ml"
-      ],
-      [
-        "orange juice",
-        40,
-        "ml"
-      ],
-      [
-        "cranberry juice",
-        40,
-        "ml"
-      ]
+      ["vodka", 40, "ml"],
+      ["peach schnapps", 20, "ml"],
+      ["orange juice", 40, "ml"],
+      ["cranberry juice", 40, "ml"]
     ],
     "garnish": "Half orange slice.",
     "source": "https://iba-world.com/iba-cocktail/sex-on-the-beach/"
   },
+
   "Sherry Cobbler": {
     "category": "New Era",
     "ingredients": [
-      [
-        "amontillado sherry",
-        45,
-        "ml"
-      ],
-      [
-        "palo cortado sherry",
-        45,
-        "ml"
-      ],
-      [
-        "sugar",
-        1,
-        "tsp"
-      ],
-      [
-        "orange",
-        0.5,
-        "slice"
-      ],
-      [
-        "lemon",
-        0.5,
-        "slice"
-      ]
+      ["amontillado sherry", 45, "ml"],
+      ["palo cortado sherry", 45, "ml"],
+      ["sugar", 1, "tsp"],
+      ["orange", 0.5, "slice"],
+      ["lemon", 0.5, "slice"]
     ],
     "garnish": "Fresh berries, ¼ wheel each orange and lemon. Serve with straws.",
     "source": "https://iba-world.com/iba-cocktail/sherry-cobbler/"
   },
+
   "Sidecar": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "cognac",
-        50,
-        "ml"
-      ],
-      [
-        "triple sec",
-        20,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        20,
-        "ml"
-      ]
+      ["cognac", 50, "ml"],
+      ["triple sec", 20, "ml"],
+      ["lemon juice", 20, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/sidecar/"
   },
+
   "Singapore Sling": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "cherry liqueur",
-        15,
-        "ml"
-      ],
-      [
-        "Cointreau",
-        7.5,
-        "ml"
-      ],
-      [
-        "Bénédictine",
-        7.5,
-        "ml"
-      ],
-      [
-        "pineapple juice",
-        120,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "grenadine",
-        10,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        1,
-        "dash"
-      ]
+      ["gin", 30, "ml"],
+      ["cherry liqueur", 15, "ml"],
+      ["Cointreau", 7.5, "ml"],
+      ["Bénédictine", 7.5, "ml"],
+      ["pineapple juice", 120, "ml"],
+      ["lime juice", 15, "ml"],
+      ["grenadine", 10, "ml"],
+      ["Angostura bitters", 1, "dash"]
     ],
     "garnish": "Pineapple and maraschino cherry.",
     "source": "https://iba-world.com/iba-cocktail/singapore-sling/"
   },
+
   "South Side": {
     "category": "New Era",
     "ingredients": [
-      [
-        "gin",
-        60,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        30,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        15,
-        "ml"
-      ],
-      [
-        "mint",
-        5,
-        "leaf"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ]
+      ["gin", 60, "ml"],
+      ["lemon juice", 30, "ml"],
+      ["simple syrup", 15, "ml"],
+      ["mint", 5, "leaf"],
+      ["egg white", null, "by eye"]
     ],
     "garnish": "Mint springs.",
     "source": "https://iba-world.com/iba-cocktail/south-side/"
   },
+
   "Spicy Fifty": {
     "category": "New Era",
     "ingredients": [
-      [
-        "vanilla vodka",
-        50,
-        "ml"
-      ],
-      [
-        "elderflower cordial",
-        15,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        10,
-        "ml"
-      ],
-      [
-        "red chili pepper",
-        2,
-        "slice"
-      ]
+      ["vanilla vodka", 50, "ml"],
+      ["elderflower cordial", 15, "ml"],
+      ["lime juice", 15, "ml"],
+      ["honey syrup", 10, "ml"],
+      ["red chili pepper", 2, "slice"]
     ],
     "garnish": "A red chili pepper.",
     "source": "https://iba-world.com/iba-cocktail/spicy-fifty/"
   },
+
   "Spritz": {
     "category": "New Era",
     "ingredients": [
-      [
-        "prosecco",
-        90,
-        "ml"
-      ],
-      [
-        "Aperol",
-        60,
-        "ml"
-      ],
-      [
-        "soda water",
-        null,
-        "by eye"
-      ]
+      ["prosecco", 90, "ml"],
+      ["Aperol", 60, "ml"],
+      ["soda water", null, "by eye"]
     ],
     "garnish": "A slice of orange.",
     "source": "https://iba-world.com/iba-cocktail/spritz/"
   },
+
   "Stinger": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "cognac",
-        50,
-        "ml"
-      ],
-      [
-        "white crème de menthe",
-        20,
-        "ml"
-      ]
+      ["cognac", 50, "ml"],
+      ["white crème de menthe", 20, "ml"]
     ],
     "garnish": "Optional mint leave.",
     "source": "https://iba-world.com/iba-cocktail/stinger/"
   },
+
   "Suffering Bastard": {
     "category": "New Era",
     "ingredients": [
-      [
-        "cognac",
-        30,
-        "ml"
-      ],
-      [
-        "gin",
-        30,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "dash"
-      ],
-      [
-        "ginger beer",
-        null,
-        "by eye"
-      ]
+      ["cognac", 30, "ml"],
+      ["gin", 30, "ml"],
+      ["lime juice", 15, "ml"],
+      ["Angostura bitters", 2, "dash"],
+      ["ginger beer", null, "by eye"]
     ],
     "garnish": "Mint spring and optionally an orange slice as well.",
     "source": "https://iba-world.com/iba-cocktail/suffering-bastard/"
   },
+
   "Tequila Sunrise": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "tequila",
-        45,
-        "ml"
-      ],
-      [
-        "orange juice",
-        90,
-        "ml"
-      ],
-      [
-        "grenadine",
-        15,
-        "ml"
-      ]
+      ["tequila", 45, "ml"],
+      ["orange juice", 90, "ml"],
+      ["grenadine", 15, "ml"]
     ],
     "garnish": "Half orange slice or an orange zest.",
     "source": "https://iba-world.com/iba-cocktail/tequila-sunrise/"
   },
+
   "Three Dots and a Dash": {
     "category": "New Era",
     "ingredients": [
-      [
-        "rhum agricole",
-        45,
-        "ml"
-      ],
-      [
-        "aged rum",
-        15,
-        "ml"
-      ],
-      [
-        "falernum",
-        7.5,
-        "ml"
-      ],
-      [
-        "allspice dram",
-        7.5,
-        "ml"
-      ],
-      [
-        "lime juice",
-        15,
-        "ml"
-      ],
-      [
-        "orange juice",
-        15,
-        "ml"
-      ],
-      [
-        "honey syrup",
-        15,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "dash"
-      ]
+      ["rhum agricole", 45, "ml"],
+      ["aged rum", 15, "ml"],
+      ["falernum", 7.5, "ml"],
+      ["allspice dram", 7.5, "ml"],
+      ["lime juice", 15, "ml"],
+      ["orange juice", 15, "ml"],
+      ["honey syrup", 15, "ml"],
+      ["Angostura bitters", 2, "dash"]
     ],
     "garnish": "Three cherries and a rectangular chunk of pineapple.",
     "source": "https://iba-world.com/iba-cocktail/three-dots-and-a-dash/"
   },
+
   "Tipperary": {
     "category": "New Era",
     "ingredients": [
-      [
-        "Irish whiskey",
-        50,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        25,
-        "ml"
-      ],
-      [
-        "green Chartreuse",
-        15,
-        "ml"
-      ],
-      [
-        "Angostura bitters",
-        2,
-        "dash"
-      ]
+      ["Irish whiskey", 50, "ml"],
+      ["sweet vermouth", 25, "ml"],
+      ["green Chartreuse", 15, "ml"],
+      ["Angostura bitters", 2, "dash"]
     ],
     "garnish": "A slice of orange.",
     "source": "https://iba-world.com/iba-cocktail/tipperary/"
   },
+
   "Tommy's Margarita": {
     "category": "New Era",
     "ingredients": [
-      [
-        "tequila",
-        60,
-        "ml"
-      ],
-      [
-        "lime juice",
-        30,
-        "ml"
-      ],
-      [
-        "agave nectar",
-        30,
-        "ml"
-      ]
+      ["tequila", 60, "ml"],
+      ["lime juice", 30, "ml"],
+      ["agave nectar", 30, "ml"]
     ],
     "garnish": "A lime slice.",
     "source": "https://iba-world.com/iba-cocktail/tommys-margarita/"
   },
+
   "Trinidad Sour": {
     "category": "New Era",
     "ingredients": [
-      [
-        "Angostura bitters",
-        45,
-        "ml"
-      ],
-      [
-        "orgeat syrup",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "rye whiskey",
-        15,
-        "ml"
-      ]
+      ["Angostura bitters", 45, "ml"],
+      ["orgeat syrup", 30, "ml"],
+      ["lemon juice", 22.5, "ml"],
+      ["rye whiskey", 15, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/trinidad-sour/"
   },
+
   "Tuxedo": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "Old Tom gin",
-        30,
-        "ml"
-      ],
-      [
-        "dry vermouth",
-        30,
-        "ml"
-      ],
-      [
-        "maraschino liqueur",
-        0.5,
-        "barspoon"
-      ],
-      [
-        "absinthe",
-        0.25,
-        "barspoon"
-      ],
-      [
-        "orange bitters",
-        3,
-        "dash"
-      ]
+      ["Old Tom gin", 30, "ml"],
+      ["dry vermouth", 30, "ml"],
+      ["maraschino liqueur", 0.5, "barspoon"],
+      ["absinthe", 0.25, "barspoon"],
+      ["orange bitters", 3, "dash"]
     ],
     "garnish": "Cherry and lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/tuxedo/"
   },
+
   "Ve.N.To": {
     "category": "New Era",
     "ingredients": [
-      [
-        "grappa",
-        45,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        22.5,
-        "ml"
-      ],
-      [
-        "chamomile honey syrup",
-        15,
-        "ml"
-      ],
-      [
-        "chamomile cordial",
-        15,
-        "ml"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ]
+      ["grappa", 45, "ml"],
+      ["lemon juice", 22.5, "ml"],
+      ["chamomile honey syrup", 15, "ml"],
+      ["chamomile cordial", 15, "ml"],
+      ["egg white", null, "by eye"]
     ],
     "garnish": "Lemon zest and white grapes.",
     "source": "https://iba-world.com/iba-cocktail/ve-n-to/"
   },
+
   "Vesper": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "gin",
-        45,
-        "ml"
-      ],
-      [
-        "vodka",
-        15,
-        "ml"
-      ],
-      [
-        "Lillet Blanc",
-        7.5,
-        "ml"
-      ]
+      ["gin", 45, "ml"],
+      ["vodka", 15, "ml"],
+      ["Lillet Blanc", 7.5, "ml"]
     ],
     "garnish": "Lemon zest.",
     "source": "https://iba-world.com/iba-cocktail/vesper/"
   },
+
   "Vieux Carré": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "rye whiskey",
-        30,
-        "ml"
-      ],
-      [
-        "cognac",
-        30,
-        "ml"
-      ],
-      [
-        "sweet vermouth",
-        30,
-        "ml"
-      ],
-      [
-        "Bénédictine",
-        1,
-        "barspoon"
-      ],
-      [
-        "Peychaud's bitters",
-        2,
-        "dash"
-      ]
+      ["rye whiskey", 30, "ml"],
+      ["cognac", 30, "ml"],
+      ["sweet vermouth", 30, "ml"],
+      ["Bénédictine", 1, "barspoon"],
+      ["Peychaud's bitters", 2, "dash"]
     ],
     "garnish": "Orange zest and maraschino cherry.",
     "source": "https://iba-world.com/iba-cocktail/vieux-carre/"
   },
+
   "Whiskey Sour": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "bourbon",
-        45,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        25,
-        "ml"
-      ],
-      [
-        "simple syrup",
-        20,
-        "ml"
-      ],
-      [
-        "egg white",
-        null,
-        "by eye"
-      ]
+      ["bourbon", 45, "ml"],
+      ["lemon juice", 25, "ml"],
+      ["simple syrup", 20, "ml"],
+      ["egg white", null, "by eye"]
     ],
     "garnish": "Half orange slice and maraschino cherry, optionally use orange zest.",
     "source": "https://iba-world.com/iba-cocktail/whiskey-sour/"
   },
+
   "White Lady": {
     "category": "The unforgettables",
     "ingredients": [
-      [
-        "gin",
-        40,
-        "ml"
-      ],
-      [
-        "triple sec",
-        30,
-        "ml"
-      ],
-      [
-        "lemon juice",
-        20,
-        "ml"
-      ]
+      ["gin", 40, "ml"],
+      ["triple sec", 30, "ml"],
+      ["lemon juice", 20, "ml"]
     ],
     "source": "https://iba-world.com/iba-cocktail/white-lady/"
   },
+
   "Zombie": {
     "category": "Contemporary Classics",
     "ingredients": [
-      [
-        "dark rum",
-        45,
-        "ml"
-      ],
-      [
-        "gold rum",
-        45,
-        "ml"
-      ],
-      [
-        "Demerara rum",
-        30,
-        "ml"
-      ],
-      [
-        "lime juice",
-        20,
-        "ml"
-      ],
-      [
-        "falernum",
-        15,
-        "ml"
-      ],
-      [
-        "Donn's mix",
-        15,
-        "ml"
-      ],
-      [
-        "grenadine",
-        1,
-        "tsp"
-      ],
-      [
-        "Angostura bitters",
-        1,
-        "dash"
-      ],
-      [
-        "pastis",
-        6,
-        "drop"
-      ]
+      ["dark rum", 45, "ml"],
+      ["gold rum", 45, "ml"],
+      ["Demerara rum", 30, "ml"],
+      ["lime juice", 20, "ml"],
+      ["falernum", 15, "ml"],
+      ["Donn's mix", 15, "ml"],
+      ["grenadine", 1, "tsp"],
+      ["Angostura bitters", 1, "dash"],
+      ["pastis", 6, "drop"]
     ],
     "garnish": "Mint leaves.",
     "source": "https://iba-world.com/iba-cocktail/zombie/"
