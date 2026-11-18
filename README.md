@@ -49,16 +49,16 @@ If you like what I do, you can contribute by buying something from the wishlist.
 
 | Item | How much I want it |
 | --- | --- |
+| [Fernet (Fernet-Branca)](https://www.aligro.ch/produits/108728-BOT/fernet-branca-liquore-amaro-39-vol) | ★★★★ |
+| [Yellow Chartreuse (yellow Chartreuse)](https://www.lacavedespoetes.ch/shop/chartreuse-jaune-43-70cl-6790#attribute_values=1) | ★★★★ |
+| [Green Chartreuse (green Chartreuse)](https://www.lacavedespoetes.ch/shop/chartreuse-verte-55-70cl-6795#attribute_values=1) | ★★★★ |
+| [Gozenchu Yuzu (Gozenshu Yuzushu)](https://www.sakeshop.it/prodotto/gozenshu-yuzushu/) | ★★★★ |
+| [9 di Dante Inferno (9 di Dante Inferno)](https://www.lacavedespoetes.ch/shop/9didante-inferno-vermouth-rouge-17-5-75cl-6303) | ★★★★ |
+| [Mezcal (Del Maguey Vida)](https://www.drinks.ch/de/del-maguey-vida-mezcal-70cl.html) | ★★★★ |
 | [Averna (Averna)](https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol) | ★★★ |
-| [Fernet (Fernet-Branca)](https://www.aligro.ch/produits/108728-BOT/fernet-branca-liquore-amaro-39-vol) | ★★★ |
-| [Yellow Chartreuse (yellow Chartreuse)](https://www.lacavedespoetes.ch/shop/chartreuse-jaune-43-70cl-6790#attribute_values=1) | ★★★ |
-| [Green Chartreuse (green Chartreuse)](https://www.lacavedespoetes.ch/shop/chartreuse-verte-55-70cl-6795#attribute_values=1) | ★★★ |
-| [Gozenchu Yuzu (Gozenshu Yuzushu)](https://www.sakeshop.it/prodotto/gozenshu-yuzushu/) | ★★★ |
-| [9 di Dante Inferno (9 di Dante Inferno)](https://www.lacavedespoetes.ch/shop/9didante-inferno-vermouth-rouge-17-5-75cl-6303) | ★★★ |
 | [Coupe glasses, set of 4](https://www.amazon.de/-/en/gp/product/B099FJH5JY) | ★★★ |
 | [Aperol glasses](https://www.amazon.de/-/en/dp/B0BMVNRYJP) | ★★★ |
 | [Spiced rum (Bacardi)](https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol) | ★★ |
-| [Mezcal (Del Maguey Vida)](https://www.drinks.ch/de/del-maguey-vida-mezcal-70cl.html) | ★★ |
 | [Advocaat (Bols)](https://www.drinks.ch/de/bols-advocaat-eierlikor-70cl.html) | ★★ |
 | [Aquavit (Linie Aquavit)](https://www.drinks.ch/de/linie-aquavit-70cl.html) | ★★ |
 | [Lillet Rose (Lillet Rosé)](https://www.drinks.ch/de/lillet-rose-aperitif-75cl.html) | ★★ |

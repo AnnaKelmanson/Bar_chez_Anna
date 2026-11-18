@@ -1,32 +1,37 @@
 [
   {
-    "name": "Averna (Averna)",
-    "url": "https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol",
-    "stars": 3
-  },
-  {
     "name": "Fernet (Fernet-Branca)",
     "url": "https://www.aligro.ch/produits/108728-BOT/fernet-branca-liquore-amaro-39-vol",
-    "stars": 3
+    "stars": 4
   },
   {
     "name": "Yellow Chartreuse (yellow Chartreuse)",
     "url": "https://www.lacavedespoetes.ch/shop/chartreuse-jaune-43-70cl-6790#attribute_values=1",
-    "stars": 3
+    "stars": 4
   },
   {
     "name": "Green Chartreuse (green Chartreuse)",
     "url": "https://www.lacavedespoetes.ch/shop/chartreuse-verte-55-70cl-6795#attribute_values=1",
-    "stars": 3
+    "stars": 4
   },
   {
     "name": "Gozenchu Yuzu (Gozenshu Yuzushu)",
     "url": "https://www.sakeshop.it/prodotto/gozenshu-yuzushu/",
-    "stars": 3
+    "stars": 4
   },
   {
     "name": "9 di Dante Inferno (9 di Dante Inferno)",
     "url": "https://www.lacavedespoetes.ch/shop/9didante-inferno-vermouth-rouge-17-5-75cl-6303",
+    "stars": 4
+  },
+  {
+    "name": "Mezcal (Del Maguey Vida)",
+    "url": "https://www.drinks.ch/de/del-maguey-vida-mezcal-70cl.html",
+    "stars": 4
+  },
+  {
+    "name": "Averna (Averna)",
+    "url": "https://www.aligro.ch/produits/16956-BOT/amaro-averna-1868-siciliano-29-vol",
     "stars": 3
   },
   {
@@ -42,11 +47,6 @@
   {
     "name": "Spiced rum (Bacardi)",
     "url": "https://www.aligro.ch/produits/61841-BOT/bacardi-spiced-35-vol",
-    "stars": 2
-  },
-  {
-    "name": "Mezcal (Del Maguey Vida)",
-    "url": "https://www.drinks.ch/de/del-maguey-vida-mezcal-70cl.html",
     "stars": 2
   },
   {
