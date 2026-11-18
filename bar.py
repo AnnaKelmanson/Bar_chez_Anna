@@ -76,6 +76,17 @@ def wishlist_items(inventory, extras):
     return items
 
 
+def missing_rows(recipes, inventory, available):
+    urls = {item["type"].casefold(): item.get("purchase_url")
+            for category in ("bottles", "syrups", "always_available") for item in inventory[category]}
+    rows = []
+    for name, recipe in options(recipes):
+        missing, unresolved = availability(recipe, available)
+        if missing and not unresolved:
+            rows.append((name, ", ".join(linked(item, urls.get(item.casefold())) for item in missing)))
+    return rows or [("Nothing, everything is available.", "")]
+
+
 def readme_text(recipes, inventory, wishlist):
     available = available_ingredients(inventory)
     makeable = [(name, recipe_line(recipe)) for name, recipe in options(recipes)
@@ -94,6 +105,15 @@ def readme_text(recipes, inventory, wishlist):
         "",
     ]
     lines.extend(markdown_table(("Cocktail", "Build"), makeable))
+    lines.extend([
+        "",
+        "## Not available yet",
+        "",
+        "I have more recipes, but I don't have everything at home to make them yet. "
+        "If you want one of these, bring the missing ingredients and I'll make it for you:",
+        "",
+    ])
+    lines.extend(markdown_table(("Cocktail", "Bring"), missing_rows(recipes, inventory, available)))
     lines.extend([
         "",
         "If you like what I do, you can contribute by buying something from the wishlist. If you don't know what to get me for my birthday or Christmas, pick something from that list.",

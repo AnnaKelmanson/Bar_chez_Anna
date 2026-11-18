@@ -179,6 +179,12 @@
       "brand": "Lillet Rosé",
       "purchase_url": "https://www.drinks.ch/de/lillet-rose-aperitif-75cl.html",
       "at_home": false
+    },
+    {
+      "type": "Coffee liqueur",
+      "brand": "Kahlúa",
+      "purchase_url": "https://www.drinks.ch/de/kahlua-70cl.html",
+      "at_home": false
     }
   ],
   "syrups": [
@@ -417,6 +423,18 @@
       "brand": null,
       "purchase_url": null,
       "at_home": true
+    },
+    {
+      "type": "Cream",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
+    },
+    {
+      "type": "Espresso",
+      "brand": null,
+      "purchase_url": null,
+      "at_home": false
     }
   ]
 }

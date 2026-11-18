@@ -97,6 +97,15 @@
     ]
   },
 
+  "Espresso Martini": {
+    "ingredients": [
+      ["vodka", 50, "ml"],
+      ["coffee liqueur", 10, "ml"],
+      ["espresso", 30, "ml"],
+      ["cane sugar syrup", 10, "ml"]
+    ]
+  },
+
   "Pomegranate Lillet Rose Rum": {
     "ingredients": [
       ["fresh pomegranate", null, "by eye"],
