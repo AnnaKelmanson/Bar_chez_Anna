@@ -71,11 +71,15 @@ def markdown_table(headers, rows):
 def wishlist_items(inventory, extras):
     bottle_urls = {item.get("purchase_url") for item in inventory["bottles"] if item.get("purchase_url")}
     bottle_names = {name.casefold() for item in inventory["bottles"] for name in (item["type"], item_label(item))}
+    stars = {gift.get("url") or gift.get("name"): gift["stars"] for gift in extras if gift.get("stars")}
     items = [{"name": item_label(item), "url": item.get("purchase_url")}
              for item in inventory["bottles"] if item["at_home"] is False]
+    for item in items:
+        if (item["url"] or item["name"]) in stars:
+            item["stars"] = stars[item["url"] or item["name"]]
     items += [gift for gift in extras
               if gift.get("url") not in bottle_urls and (gift.get("name") or "").casefold() not in bottle_names]
-    return items
+    return sorted(items, key=lambda gift: -gift.get("stars", 0))
 
 
 def missing_rows(recipes, inventory, available):
@@ -93,7 +97,8 @@ def readme_text(recipes, inventory, wishlist):
     available = available_ingredients(inventory)
     makeable = [(name, recipe_line(recipe)) for name, recipe in options(recipes)
                 if not any(availability(recipe, available))] or [("Nothing yet.", "")]
-    missing_alcohol = [(linked(gift.get("name"), gift.get("url")),) for gift in wishlist] or [("Nothing yet.",)]
+    missing_alcohol = [(linked(gift.get("name"), gift.get("url")), "★" * gift.get("stars", 0))
+                       for gift in wishlist] or [("Nothing yet.", "")]
     lines = [
         "# Bar chez Anna",
         "",
@@ -126,7 +131,7 @@ def readme_text(recipes, inventory, wishlist):
         "## Wishlist",
         "",
     ])
-    lines.extend(markdown_table(("Item",), missing_alcohol))
+    lines.extend(markdown_table(("Item", "How much I want it"), missing_alcohol))
     return "\n".join(lines) + "\n"
 
 
